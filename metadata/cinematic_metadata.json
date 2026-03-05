@@ -1,0 +1,1000 @@
+{
+    "visual_features": [
+        {
+            "color_variance": 1.9573608696831595,
+            "contrast": 1.3990571359609156,
+            "lighting_key": "low-key",
+            "edge_density": 0.0006553819444444444
+        },
+        {
+            "color_variance": 1.9572410153235915,
+            "contrast": 1.3990143013291865,
+            "lighting_key": "low-key",
+            "edge_density": 0.0006553819444444444
+        },
+        {
+            "color_variance": 113.67486252269771,
+            "contrast": 10.35709010016149,
+            "lighting_key": "low-key",
+            "edge_density": 0.0009027777777777777
+        },
+        {
+            "color_variance": 1455.7965374223038,
+            "contrast": 37.23577299929,
+            "lighting_key": "low-key",
+            "edge_density": 0.009756944444444445
+        },
+        {
+            "color_variance": 4335.164963273339,
+            "contrast": 64.29701074090904,
+            "lighting_key": "low-key",
+            "edge_density": 0.015377604166666666
+        },
+        {
+            "color_variance": 4696.743497711675,
+            "contrast": 66.97180416235312,
+            "lighting_key": "low-key",
+            "edge_density": 0.015716145833333334
+        },
+        {
+            "color_variance": 4713.686574667846,
+            "contrast": 67.05322898965127,
+            "lighting_key": "low-key",
+            "edge_density": 0.015655381944444446
+        },
+        {
+            "color_variance": 4712.722959948882,
+            "contrast": 67.04546463335565,
+            "lighting_key": "low-key",
+            "edge_density": 0.015863715277777777
+        },
+        {
+            "color_variance": 4718.8485928198015,
+            "contrast": 67.0793483156948,
+            "lighting_key": "low-key",
+            "edge_density": 0.016163194444444445
+        },
+        {
+            "color_variance": 4732.211892714913,
+            "contrast": 67.1657361495351,
+            "lighting_key": "low-key",
+            "edge_density": 0.016080729166666665
+        },
+        {
+            "color_variance": 4710.794327494044,
+            "contrast": 66.99572384980765,
+            "lighting_key": "low-key",
+            "edge_density": 0.016202256944444444
+        },
+        {
+            "color_variance": 4686.397546604327,
+            "contrast": 66.82479267738965,
+            "lighting_key": "low-key",
+            "edge_density": 0.0167578125
+        },
+        {
+            "color_variance": 4653.731013693423,
+            "contrast": 66.5380033984623,
+            "lighting_key": "low-key",
+            "edge_density": 0.017035590277777776
+        },
+        {
+            "color_variance": 4620.434897554958,
+            "contrast": 66.28072298485272,
+            "lighting_key": "low-key",
+            "edge_density": 0.016966145833333335
+        },
+        {
+            "color_variance": 4543.823504050089,
+            "contrast": 65.6991392852006,
+            "lighting_key": "low-key",
+            "edge_density": 0.016258680555555554
+        },
+        {
+            "color_variance": 4554.997346450082,
+            "contrast": 65.05295247092512,
+            "lighting_key": "low-key",
+            "edge_density": 0.012660590277777778
+        },
+        {
+            "color_variance": 4634.1171667821045,
+            "contrast": 65.64214384578489,
+            "lighting_key": "low-key",
+            "edge_density": 0.012960069444444444
+        },
+        {
+            "color_variance": 4702.301393062756,
+            "contrast": 66.14375758286943,
+            "lighting_key": "low-key",
+            "edge_density": 0.013285590277777778
+        },
+        {
+            "color_variance": 4734.843079032163,
+            "contrast": 66.40555820150146,
+            "lighting_key": "low-key",
+            "edge_density": 0.013298611111111112
+        },
+        {
+            "color_variance": 4777.757774296461,
+            "contrast": 66.74029762113938,
+            "lighting_key": "low-key",
+            "edge_density": 0.013120659722222223
+        },
+        {
+            "color_variance": 4830.206189091301,
+            "contrast": 67.15113283448106,
+            "lighting_key": "low-key",
+            "edge_density": 0.0130078125
+        },
+        {
+            "color_variance": 4888.052030412669,
+            "contrast": 67.58253812071148,
+            "lighting_key": "low-key",
+            "edge_density": 0.012907986111111111
+        },
+        {
+            "color_variance": 4937.45113644379,
+            "contrast": 67.99118398849413,
+            "lighting_key": "low-key",
+            "edge_density": 0.012860243055555555
+        },
+        {
+            "color_variance": 4964.433286006955,
+            "contrast": 68.25250297573639,
+            "lighting_key": "low-key",
+            "edge_density": 0.012747395833333333
+        },
+        {
+            "color_variance": 5026.099067621827,
+            "contrast": 68.69490448256377,
+            "lighting_key": "low-key",
+            "edge_density": 0.01177951388888889
+        },
+        {
+            "color_variance": 5085.69665984789,
+            "contrast": 69.19609362110751,
+            "lighting_key": "low-key",
+            "edge_density": 0.012196180555555556
+        },
+        {
+            "color_variance": 5147.636731384956,
+            "contrast": 69.74512999973891,
+            "lighting_key": "low-key",
+            "edge_density": 0.012764756944444445
+        },
+        {
+            "color_variance": 2580.6237144562706,
+            "contrast": 48.40200266831951,
+            "lighting_key": "low-key",
+            "edge_density": 0.022821180555555556
+        },
+        {
+            "color_variance": 2580.0364454234164,
+            "contrast": 48.41916722838968,
+            "lighting_key": "low-key",
+            "edge_density": 0.02314670138888889
+        },
+        {
+            "color_variance": 2578.4823835189245,
+            "contrast": 48.392800212952146,
+            "lighting_key": "low-key",
+            "edge_density": 0.023498263888888888
+        },
+        {
+            "color_variance": 2559.504828086119,
+            "contrast": 48.197777178622445,
+            "lighting_key": "low-key",
+            "edge_density": 0.023810763888888888
+        },
+        {
+            "color_variance": 2550.722959288946,
+            "contrast": 48.09531959452896,
+            "lighting_key": "low-key",
+            "edge_density": 0.02357204861111111
+        },
+        {
+            "color_variance": 2548.39189876272,
+            "contrast": 48.06439029654397,
+            "lighting_key": "low-key",
+            "edge_density": 0.02427517361111111
+        },
+        {
+            "color_variance": 2541.7336916938416,
+            "contrast": 47.9872349789969,
+            "lighting_key": "low-key",
+            "edge_density": 0.023658854166666667
+        },
+        {
+            "color_variance": 3854.2900255108866,
+            "contrast": 62.28581054746831,
+            "lighting_key": "low-key",
+            "edge_density": 0.030125868055555557
+        },
+        {
+            "color_variance": 3884.813479823383,
+            "contrast": 62.528715739751455,
+            "lighting_key": "low-key",
+            "edge_density": 0.02990451388888889
+        },
+        {
+            "color_variance": 3879.027331571225,
+            "contrast": 62.49500730130646,
+            "lighting_key": "low-key",
+            "edge_density": 0.028446180555555554
+        },
+        {
+            "color_variance": 3859.3764703745383,
+            "contrast": 62.33771433881428,
+            "lighting_key": "low-key",
+            "edge_density": 0.029761284722222222
+        },
+        {
+            "color_variance": 3848.611663582047,
+            "contrast": 62.239742798323135,
+            "lighting_key": "low-key",
+            "edge_density": 0.02818142361111111
+        },
+        {
+            "color_variance": 3842.8380582139566,
+            "contrast": 62.1962757235354,
+            "lighting_key": "low-key",
+            "edge_density": 0.0278125
+        },
+        {
+            "color_variance": 2062.823039399943,
+            "contrast": 44.9577973473777,
+            "lighting_key": "low-key",
+            "edge_density": 0.009266493055555556
+        },
+        {
+            "color_variance": 2070.4045880388985,
+            "contrast": 45.029141622449465,
+            "lighting_key": "low-key",
+            "edge_density": 0.0098828125
+        },
+        {
+            "color_variance": 2076.507111941941,
+            "contrast": 45.10379023188865,
+            "lighting_key": "low-key",
+            "edge_density": 0.010243055555555556
+        },
+        {
+            "color_variance": 2085.8466800866127,
+            "contrast": 45.17981745413591,
+            "lighting_key": "low-key",
+            "edge_density": 0.01091579861111111
+        },
+        {
+            "color_variance": 2077.8495163699786,
+            "contrast": 45.06806192303559,
+            "lighting_key": "low-key",
+            "edge_density": 0.011462673611111111
+        },
+        {
+            "color_variance": 2072.9743036056125,
+            "contrast": 44.99631306043465,
+            "lighting_key": "low-key",
+            "edge_density": 0.011662326388888889
+        },
+        {
+            "color_variance": 2042.7746077825582,
+            "contrast": 44.67549341229422,
+            "lighting_key": "low-key",
+            "edge_density": 0.012860243055555555
+        },
+        {
+            "color_variance": 2019.2267165115732,
+            "contrast": 44.4212936934277,
+            "lighting_key": "low-key",
+            "edge_density": 0.013706597222222222
+        },
+        {
+            "color_variance": 1996.3083299515251,
+            "contrast": 44.15760126432387,
+            "lighting_key": "low-key",
+            "edge_density": 0.013971354166666667
+        },
+        {
+            "color_variance": 1163.1813135383175,
+            "contrast": 31.634339469623036,
+            "lighting_key": "low-key",
+            "edge_density": 0.04748263888888889
+        },
+        {
+            "color_variance": 1167.353644258423,
+            "contrast": 31.700166163854096,
+            "lighting_key": "low-key",
+            "edge_density": 0.04679253472222222
+        },
+        {
+            "color_variance": 1171.3819957237695,
+            "contrast": 31.767616832127498,
+            "lighting_key": "low-key",
+            "edge_density": 0.0467578125
+        },
+        {
+            "color_variance": 6637.924467761373,
+            "contrast": 79.88194597255905,
+            "lighting_key": "high-key",
+            "edge_density": 0.02404513888888889
+        },
+        {
+            "color_variance": 6752.646411521878,
+            "contrast": 80.86904750566879,
+            "lighting_key": "high-key",
+            "edge_density": 0.025125868055555556
+        },
+        {
+            "color_variance": 6999.629585469964,
+            "contrast": 82.46539957563544,
+            "lighting_key": "high-key",
+            "edge_density": 0.025004340277777776
+        },
+        {
+            "color_variance": 7152.0541540753375,
+            "contrast": 83.0591793505342,
+            "lighting_key": "high-key",
+            "edge_density": 0.024518229166666666
+        },
+        {
+            "color_variance": 7004.597992613481,
+            "contrast": 82.02440193228647,
+            "lighting_key": "high-key",
+            "edge_density": 0.023602430555555557
+        },
+        {
+            "color_variance": 6585.822964609824,
+            "contrast": 79.46307405238223,
+            "lighting_key": "high-key",
+            "edge_density": 0.0236328125
+        },
+        {
+            "color_variance": 5921.827202880783,
+            "contrast": 75.17616641292624,
+            "lighting_key": "high-key",
+            "edge_density": 0.02243923611111111
+        },
+        {
+            "color_variance": 5029.168261168175,
+            "contrast": 68.02460892353467,
+            "lighting_key": "high-key",
+            "edge_density": 0.021458333333333333
+        },
+        {
+            "color_variance": 3541.8231496642225,
+            "contrast": 58.878942697574296,
+            "lighting_key": "low-key",
+            "edge_density": 0.0333203125
+        },
+        {
+            "color_variance": 3561.6238281023757,
+            "contrast": 59.05459991501601,
+            "lighting_key": "low-key",
+            "edge_density": 0.03305555555555555
+        },
+        {
+            "color_variance": 3609.745653922875,
+            "contrast": 59.466813783648966,
+            "lighting_key": "low-key",
+            "edge_density": 0.030889756944444444
+        },
+        {
+            "color_variance": 3658.3132880063577,
+            "contrast": 59.861638235939225,
+            "lighting_key": "low-key",
+            "edge_density": 0.030247395833333333
+        },
+        {
+            "color_variance": 3697.880600143462,
+            "contrast": 60.17667470424065,
+            "lighting_key": "low-key",
+            "edge_density": 0.029761284722222222
+        },
+        {
+            "color_variance": 3725.9748981372227,
+            "contrast": 60.39272522749683,
+            "lighting_key": "low-key",
+            "edge_density": 0.028598090277777776
+        },
+        {
+            "color_variance": 3740.6016886805073,
+            "contrast": 60.5079465578719,
+            "lighting_key": "low-key",
+            "edge_density": 0.028042534722222224
+        },
+        {
+            "color_variance": 3772.3637736974624,
+            "contrast": 60.875168197996175,
+            "lighting_key": "low-key",
+            "edge_density": 0.1036328125
+        },
+        {
+            "color_variance": 3864.606887168719,
+            "contrast": 61.6091819107656,
+            "lighting_key": "low-key",
+            "edge_density": 0.10220052083333334
+        },
+        {
+            "color_variance": 3788.5213445076884,
+            "contrast": 60.950368158896644,
+            "lighting_key": "low-key",
+            "edge_density": 0.09674479166666666
+        },
+        {
+            "color_variance": 3908.8807719178662,
+            "contrast": 61.90403953841368,
+            "lighting_key": "low-key",
+            "edge_density": 0.09616319444444445
+        },
+        {
+            "color_variance": 3843.3636086813513,
+            "contrast": 61.36634347042561,
+            "lighting_key": "low-key",
+            "edge_density": 0.09544704861111111
+        },
+        {
+            "color_variance": 3972.1323416264095,
+            "contrast": 62.39664823213806,
+            "lighting_key": "low-key",
+            "edge_density": 0.09654079861111112
+        },
+        {
+            "color_variance": 3898.9133601880458,
+            "contrast": 61.74978792003005,
+            "lighting_key": "low-key",
+            "edge_density": 0.09817274305555555
+        },
+        {
+            "color_variance": 4020.430297364786,
+            "contrast": 62.70718476176575,
+            "lighting_key": "low-key",
+            "edge_density": 0.0974609375
+        },
+        {
+            "color_variance": 3521.952350110918,
+            "contrast": 60.68640999534803,
+            "lighting_key": "low-key",
+            "edge_density": 0.05075954861111111
+        },
+        {
+            "color_variance": 3530.2204410408685,
+            "contrast": 60.74786378040814,
+            "lighting_key": "low-key",
+            "edge_density": 0.05161024305555555
+        },
+        {
+            "color_variance": 3545.4772708652636,
+            "contrast": 60.87670523308715,
+            "lighting_key": "low-key",
+            "edge_density": 0.05000434027777778
+        },
+        {
+            "color_variance": 3378.378432628991,
+            "contrast": 57.47866275324651,
+            "lighting_key": "low-key",
+            "edge_density": 0.09689236111111112
+        },
+        {
+            "color_variance": 3356.9255600103606,
+            "contrast": 57.29319756136461,
+            "lighting_key": "low-key",
+            "edge_density": 0.09624131944444445
+        },
+        {
+            "color_variance": 3328.3045891605248,
+            "contrast": 57.04052676332034,
+            "lighting_key": "low-key",
+            "edge_density": 0.09919704861111112
+        },
+        {
+            "color_variance": 3289.6809698590487,
+            "contrast": 56.70162799898593,
+            "lighting_key": "low-key",
+            "edge_density": 0.09970486111111111
+        },
+        {
+            "color_variance": 4737.789201536578,
+            "contrast": 67.02985231895309,
+            "lighting_key": "low-key",
+            "edge_density": 0.02409722222222222
+        },
+        {
+            "color_variance": 4784.214256134252,
+            "contrast": 67.36704700003223,
+            "lighting_key": "low-key",
+            "edge_density": 0.02458767361111111
+        },
+        {
+            "color_variance": 4810.188834789116,
+            "contrast": 67.52614704221835,
+            "lighting_key": "high-key",
+            "edge_density": 0.023984375
+        },
+        {
+            "color_variance": 4900.577905349374,
+            "contrast": 68.20117798594265,
+            "lighting_key": "high-key",
+            "edge_density": 0.024144965277777777
+        },
+        {
+            "color_variance": 4914.650919113847,
+            "contrast": 68.30731697508024,
+            "lighting_key": "high-key",
+            "edge_density": 0.0242578125
+        },
+        {
+            "color_variance": 4935.265521112719,
+            "contrast": 68.46933042374324,
+            "lighting_key": "high-key",
+            "edge_density": 0.0234765625
+        },
+        {
+            "color_variance": 4973.76750793075,
+            "contrast": 68.75260324102774,
+            "lighting_key": "high-key",
+            "edge_density": 0.02329861111111111
+        },
+        {
+            "color_variance": 5000.957371755633,
+            "contrast": 68.96049002899838,
+            "lighting_key": "high-key",
+            "edge_density": 0.0226953125
+        },
+        {
+            "color_variance": 884.2587489736864,
+            "contrast": 27.889037668209053,
+            "lighting_key": "low-key",
+            "edge_density": 0.014917534722222223
+        },
+        {
+            "color_variance": 886.3885299598705,
+            "contrast": 27.908549054866146,
+            "lighting_key": "low-key",
+            "edge_density": 0.015130208333333334
+        },
+        {
+            "color_variance": 889.1217013180559,
+            "contrast": 27.95352798723547,
+            "lighting_key": "low-key",
+            "edge_density": 0.015421006944444444
+        },
+        {
+            "color_variance": 896.6484056674764,
+            "contrast": 28.060499609945435,
+            "lighting_key": "low-key",
+            "edge_density": 0.015698784722222223
+        },
+        {
+            "color_variance": 911.0515702409573,
+            "contrast": 28.295289098803774,
+            "lighting_key": "low-key",
+            "edge_density": 0.015
+        },
+        {
+            "color_variance": 920.877506364535,
+            "contrast": 28.407259655167298,
+            "lighting_key": "low-key",
+            "edge_density": 0.015338541666666667
+        },
+        {
+            "color_variance": 1.9638440537440924,
+            "contrast": 1.4013722038573808,
+            "lighting_key": "low-key",
+            "edge_density": 0.0009288194444444445
+        },
+        {
+            "color_variance": 1.9638440537440924,
+            "contrast": 1.4013722038573808,
+            "lighting_key": "low-key",
+            "edge_density": 0.0009288194444444445
+        },
+        {
+            "color_variance": 1.9638440537440924,
+            "contrast": 1.4013722038573808,
+            "lighting_key": "low-key",
+            "edge_density": 0.0009288194444444445
+        },
+        {
+            "color_variance": 3196.5314973967356,
+            "contrast": 57.11915465158266,
+            "lighting_key": "low-key",
+            "edge_density": 0.06261284722222223
+        },
+        {
+            "color_variance": 3290.909835874186,
+            "contrast": 57.940115662590124,
+            "lighting_key": "low-key",
+            "edge_density": 0.05781684027777778
+        },
+        {
+            "color_variance": 3343.3037008448455,
+            "contrast": 58.44185032857477,
+            "lighting_key": "low-key",
+            "edge_density": 0.06169704861111111
+        },
+        {
+            "color_variance": 3363.1555847439045,
+            "contrast": 58.62260615973978,
+            "lighting_key": "low-key",
+            "edge_density": 0.0626171875
+        },
+        {
+            "color_variance": 3464.0353140766665,
+            "contrast": 59.5056500846908,
+            "lighting_key": "low-key",
+            "edge_density": 0.06254774305555555
+        },
+        {
+            "color_variance": 1599.4334824948637,
+            "contrast": 40.63036680786382,
+            "lighting_key": "low-key",
+            "edge_density": 0.020043402777777778
+        },
+        {
+            "color_variance": 1609.5656093109485,
+            "contrast": 40.759650962140334,
+            "lighting_key": "low-key",
+            "edge_density": 0.01982204861111111
+        },
+        {
+            "color_variance": 1611.6829987501521,
+            "contrast": 40.79464607184232,
+            "lighting_key": "low-key",
+            "edge_density": 0.02045138888888889
+        },
+        {
+            "color_variance": 1621.302535698106,
+            "contrast": 40.90666121138188,
+            "lighting_key": "low-key",
+            "edge_density": 0.01939670138888889
+        },
+        {
+            "color_variance": 1634.5659193250347,
+            "contrast": 41.07333740270473,
+            "lighting_key": "low-key",
+            "edge_density": 0.018368055555555554
+        },
+        {
+            "color_variance": 3049.454151273247,
+            "contrast": 53.84001879352445,
+            "lighting_key": "low-key",
+            "edge_density": 0.046471354166666666
+        },
+        {
+            "color_variance": 3079.9569632962175,
+            "contrast": 54.09940044369543,
+            "lighting_key": "low-key",
+            "edge_density": 0.04694444444444444
+        },
+        {
+            "color_variance": 3110.5527358458635,
+            "contrast": 54.335161094037154,
+            "lighting_key": "low-key",
+            "edge_density": 0.048598090277777777
+        },
+        {
+            "color_variance": 3133.4378808367674,
+            "contrast": 54.51319422136636,
+            "lighting_key": "low-key",
+            "edge_density": 0.04939236111111111
+        },
+        {
+            "color_variance": 3156.756924252433,
+            "contrast": 54.69527764842008,
+            "lighting_key": "low-key",
+            "edge_density": 0.04922309027777778
+        },
+        {
+            "color_variance": 4797.53857148799,
+            "contrast": 66.89989903654339,
+            "lighting_key": "high-key",
+            "edge_density": 0.05461371527777778
+        },
+        {
+            "color_variance": 4846.89148136393,
+            "contrast": 67.27336636391333,
+            "lighting_key": "high-key",
+            "edge_density": 0.0531640625
+        },
+        {
+            "color_variance": 4879.024265849531,
+            "contrast": 67.50518476397205,
+            "lighting_key": "high-key",
+            "edge_density": 0.052092013888888886
+        },
+        {
+            "color_variance": 4918.061118809444,
+            "contrast": 67.77566506978033,
+            "lighting_key": "high-key",
+            "edge_density": 0.05151909722222222
+        },
+        {
+            "color_variance": 5000.553114094548,
+            "contrast": 68.32729494318328,
+            "lighting_key": "high-key",
+            "edge_density": 0.050243055555555555
+        },
+        {
+            "color_variance": 806.9606526327983,
+            "contrast": 28.21518037536118,
+            "lighting_key": "low-key",
+            "edge_density": 0.013663194444444445
+        },
+        {
+            "color_variance": 832.0039598453893,
+            "contrast": 28.651063190677768,
+            "lighting_key": "low-key",
+            "edge_density": 0.013441840277777778
+        },
+        {
+            "color_variance": 845.7629976300088,
+            "contrast": 28.904527807675915,
+            "lighting_key": "low-key",
+            "edge_density": 0.013237847222222222
+        },
+        {
+            "color_variance": 863.9594269431764,
+            "contrast": 29.2576099103477,
+            "lighting_key": "low-key",
+            "edge_density": 0.013129340277777778
+        },
+        {
+            "color_variance": 878.8875244814084,
+            "contrast": 29.527055004506334,
+            "lighting_key": "low-key",
+            "edge_density": 0.013311631944444444
+        },
+        {
+            "color_variance": 1264.6548553139248,
+            "contrast": 35.82013959567417,
+            "lighting_key": "low-key",
+            "edge_density": 0.02638454861111111
+        },
+        {
+            "color_variance": 1256.749210871473,
+            "contrast": 35.73089281841527,
+            "lighting_key": "low-key",
+            "edge_density": 0.024973958333333334
+        },
+        {
+            "color_variance": 1251.406116184606,
+            "contrast": 35.65503169089714,
+            "lighting_key": "low-key",
+            "edge_density": 0.025321180555555555
+        },
+        {
+            "color_variance": 1244.8650972216174,
+            "contrast": 35.567577367263944,
+            "lighting_key": "low-key",
+            "edge_density": 0.025138888888888888
+        },
+        {
+            "color_variance": 1231.6818305201884,
+            "contrast": 35.373445781127444,
+            "lighting_key": "low-key",
+            "edge_density": 0.024874131944444444
+        },
+        {
+            "color_variance": 3353.5167096202435,
+            "contrast": 57.705520259594806,
+            "lighting_key": "low-key",
+            "edge_density": 0.022035590277777777
+        },
+        {
+            "color_variance": 3294.902791139351,
+            "contrast": 57.22272908732641,
+            "lighting_key": "low-key",
+            "edge_density": 0.021423611111111112
+        },
+        {
+            "color_variance": 3228.7266283267086,
+            "contrast": 56.6352281281213,
+            "lighting_key": "low-key",
+            "edge_density": 0.022256944444444444
+        },
+        {
+            "color_variance": 3191.404840069128,
+            "contrast": 56.30458043206803,
+            "lighting_key": "low-key",
+            "edge_density": 0.021940104166666665
+        },
+        {
+            "color_variance": 3128.5412826724373,
+            "contrast": 55.75996731068353,
+            "lighting_key": "low-key",
+            "edge_density": 0.022213541666666666
+        },
+        {
+            "color_variance": 2214.939145737031,
+            "contrast": 44.68344340701539,
+            "lighting_key": "low-key",
+            "edge_density": 0.014670138888888889
+        },
+        {
+            "color_variance": 2233.1907651710776,
+            "contrast": 44.84407083702158,
+            "lighting_key": "low-key",
+            "edge_density": 0.014253472222222223
+        },
+        {
+            "color_variance": 2253.186440642932,
+            "contrast": 45.001377905871465,
+            "lighting_key": "low-key",
+            "edge_density": 0.014444444444444444
+        },
+        {
+            "color_variance": 2288.086828677914,
+            "contrast": 45.3079713552877,
+            "lighting_key": "low-key",
+            "edge_density": 0.014513888888888889
+        },
+        {
+            "color_variance": 2312.0869809296955,
+            "contrast": 45.4804728669691,
+            "lighting_key": "low-key",
+            "edge_density": 0.015021701388888888
+        },
+        {
+            "color_variance": 2327.857897629473,
+            "contrast": 45.606550580338734,
+            "lighting_key": "low-key",
+            "edge_density": 0.014123263888888888
+        },
+        {
+            "color_variance": 848.5450645111881,
+            "contrast": 26.65094730934387,
+            "lighting_key": "low-key",
+            "edge_density": 0.017508680555555555
+        },
+        {
+            "color_variance": 858.2307492283868,
+            "contrast": 26.801711041360175,
+            "lighting_key": "low-key",
+            "edge_density": 0.01786892361111111
+        },
+        {
+            "color_variance": 879.3113146658166,
+            "contrast": 27.109802773734256,
+            "lighting_key": "low-key",
+            "edge_density": 0.018146701388888888
+        },
+        {
+            "color_variance": 911.7746364453392,
+            "contrast": 27.631326009979166,
+            "lighting_key": "low-key",
+            "edge_density": 0.018702256944444443
+        },
+        {
+            "color_variance": 939.5447528324811,
+            "contrast": 28.023963311345252,
+            "lighting_key": "low-key",
+            "edge_density": 0.019097222222222224
+        },
+        {
+            "color_variance": 969.50458680435,
+            "contrast": 28.481580899207838,
+            "lighting_key": "low-key",
+            "edge_density": 0.019561631944444446
+        },
+        {
+            "color_variance": 1008.9930418715909,
+            "contrast": 29.002547087469157,
+            "lighting_key": "low-key",
+            "edge_density": 0.01984809027777778
+        },
+        {
+            "color_variance": 1057.9243083767276,
+            "contrast": 29.701447944692404,
+            "lighting_key": "low-key",
+            "edge_density": 0.020703125
+        },
+        {
+            "color_variance": 313.9859855436265,
+            "contrast": 16.15928734015894,
+            "lighting_key": "low-key",
+            "edge_density": 0.020894097222222224
+        },
+        {
+            "color_variance": 4.116841424727996,
+            "contrast": 1.8562048733445213,
+            "lighting_key": "low-key",
+            "edge_density": 0.0009027777777777777
+        },
+        {
+            "color_variance": 346.0556974403392,
+            "contrast": 16.654599610262313,
+            "lighting_key": "low-key",
+            "edge_density": 0.017960069444444445
+        },
+        {
+            "color_variance": 664.3452230890721,
+            "contrast": 23.097883636554673,
+            "lighting_key": "low-key",
+            "edge_density": 0.018771701388888888
+        },
+        {
+            "color_variance": 687.1472625765053,
+            "contrast": 23.435895022560093,
+            "lighting_key": "low-key",
+            "edge_density": 0.0192578125
+        },
+        {
+            "color_variance": 709.4800436546022,
+            "contrast": 23.789900546267173,
+            "lighting_key": "low-key",
+            "edge_density": 0.019874131944444446
+        },
+        {
+            "color_variance": 733.2267953168682,
+            "contrast": 24.192031726535962,
+            "lighting_key": "low-key",
+            "edge_density": 0.020455729166666665
+        },
+        {
+            "color_variance": 760.9786700087789,
+            "contrast": 24.630581282300252,
+            "lighting_key": "low-key",
+            "edge_density": 0.021076388888888888
+        },
+        {
+            "color_variance": 781.3216257233607,
+            "contrast": 24.935511813466345,
+            "lighting_key": "low-key",
+            "edge_density": 0.021649305555555557
+        },
+        {
+            "color_variance": 846.1185561944886,
+            "contrast": 25.922015401309196,
+            "lighting_key": "low-key",
+            "edge_density": 0.022400173611111112
+        },
+        {
+            "color_variance": 941.9272043847524,
+            "contrast": 27.42690534955768,
+            "lighting_key": "low-key",
+            "edge_density": 0.02343315972222222
+        },
+        {
+            "color_variance": 721.278132088819,
+            "contrast": 24.39789152746313,
+            "lighting_key": "low-key",
+            "edge_density": 0.024184027777777777
+        },
+        {
+            "color_variance": 16.412641087284793,
+            "contrast": 3.5547968211614376,
+            "lighting_key": "low-key",
+            "edge_density": 0.0
+        },
+        {
+            "color_variance": 0.00020828993055555556,
+            "contrast": 0.01443225313509833,
+            "lighting_key": "low-key",
+            "edge_density": 0.0
+        },
+        {
+            "color_variance": 0.00020828993055555556,
+            "contrast": 0.01443225313509833,
+            "lighting_key": "low-key",
+            "edge_density": 0.0
+        },
+        {
+            "color_variance": 0.00020828993055555556,
+            "contrast": 0.01443225313509833,
+            "lighting_key": "low-key",
+            "edge_density": 0.0
+        }
+    ],
+    "audio_features": {
+        "spectral_centroid": 1796.3976565044452,
+        "zero_crossing_rate": 0.03813604532739108,
+        "tempo_bpm": 114.84375,
+        "onset_strength": 0.9541431069374084
+    },
+    "scene_features": {
+        "num_scenes": 24,
+        "shot_density": 24,
+        "avg_scene_duration": 2.840277777777778
+    },
+    "semantic_drift": 0.3199394894273658
+}

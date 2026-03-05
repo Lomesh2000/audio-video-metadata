@@ -1,0 +1,6542 @@
+[
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0001
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 9.999999747378752e-05,
+        "brightness_shift": 1.7779
+    },
+    {
+        "motion_energy": 0.0024999999441206455,
+        "brightness_shift": 2.5159
+    },
+    {
+        "motion_energy": 0.011699999682605267,
+        "brightness_shift": 2.5543
+    },
+    {
+        "motion_energy": 0.02250000089406967,
+        "brightness_shift": 2.8203
+    },
+    {
+        "motion_energy": 0.031199999153614044,
+        "brightness_shift": 2.6857
+    },
+    {
+        "motion_energy": 0.05590000003576279,
+        "brightness_shift": 2.7089
+    },
+    {
+        "motion_energy": 0.06769999861717224,
+        "brightness_shift": 2.5133
+    },
+    {
+        "motion_energy": 0.10580000281333923,
+        "brightness_shift": 2.7287
+    },
+    {
+        "motion_energy": 0.12160000205039978,
+        "brightness_shift": 2.805
+    },
+    {
+        "motion_energy": 0.15729999542236328,
+        "brightness_shift": 2.5527
+    },
+    {
+        "motion_energy": 0.23420000076293945,
+        "brightness_shift": 2.8844
+    },
+    {
+        "motion_energy": 0.22339999675750732,
+        "brightness_shift": 2.472
+    },
+    {
+        "motion_energy": 0.3163999915122986,
+        "brightness_shift": 2.8596
+    },
+    {
+        "motion_energy": 0.3425999879837036,
+        "brightness_shift": 2.3931
+    },
+    {
+        "motion_energy": 0.3714999854564667,
+        "brightness_shift": 2.8815
+    },
+    {
+        "motion_energy": 0.3772999942302704,
+        "brightness_shift": 2.4262
+    },
+    {
+        "motion_energy": 0.41019999980926514,
+        "brightness_shift": 2.7801
+    },
+    {
+        "motion_energy": 0.43970000743865967,
+        "brightness_shift": 2.8325
+    },
+    {
+        "motion_energy": 0.4004000127315521,
+        "brightness_shift": 2.5597
+    },
+    {
+        "motion_energy": 0.4564000070095062,
+        "brightness_shift": 2.7646
+    },
+    {
+        "motion_energy": 0.5647000074386597,
+        "brightness_shift": 2.7634
+    },
+    {
+        "motion_energy": 0.4422000050544739,
+        "brightness_shift": 2.3762
+    },
+    {
+        "motion_energy": 0.4970000088214874,
+        "brightness_shift": 2.8846
+    },
+    {
+        "motion_energy": 0.516700029373169,
+        "brightness_shift": 2.8906
+    },
+    {
+        "motion_energy": 0.45089998841285706,
+        "brightness_shift": 2.5017
+    },
+    {
+        "motion_energy": 0.03720000013709068,
+        "brightness_shift": 0.0331
+    },
+    {
+        "motion_energy": 0.03720000013709068,
+        "brightness_shift": 0.0345
+    },
+    {
+        "motion_energy": 0.047200001776218414,
+        "brightness_shift": 0.0517
+    },
+    {
+        "motion_energy": 0.0357000008225441,
+        "brightness_shift": 0.0182
+    },
+    {
+        "motion_energy": 0.03970000147819519,
+        "brightness_shift": 0.0113
+    },
+    {
+        "motion_energy": 0.03139999881386757,
+        "brightness_shift": 0.0055
+    },
+    {
+        "motion_energy": 0.0551999993622303,
+        "brightness_shift": 0.0189
+    },
+    {
+        "motion_energy": 0.0284000001847744,
+        "brightness_shift": 0.0112
+    },
+    {
+        "motion_energy": 0.04340000078082085,
+        "brightness_shift": 0.0201
+    },
+    {
+        "motion_energy": 0.03280000016093254,
+        "brightness_shift": 0.0053
+    },
+    {
+        "motion_energy": 0.04170000180602074,
+        "brightness_shift": 0.0388
+    },
+    {
+        "motion_energy": 0.05040000006556511,
+        "brightness_shift": 0.0339
+    },
+    {
+        "motion_energy": 0.03150000050663948,
+        "brightness_shift": 0.0116
+    },
+    {
+        "motion_energy": 0.039400000125169754,
+        "brightness_shift": 0.0203
+    },
+    {
+        "motion_energy": 0.03869999945163727,
+        "brightness_shift": 0.0231
+    },
+    {
+        "motion_energy": 0.04410000145435333,
+        "brightness_shift": 0.0017
+    },
+    {
+        "motion_energy": 0.039500001817941666,
+        "brightness_shift": 0.015
+    },
+    {
+        "motion_energy": 0.03709999844431877,
+        "brightness_shift": 0.0064
+    },
+    {
+        "motion_energy": 0.0348999984562397,
+        "brightness_shift": 0.0321
+    },
+    {
+        "motion_energy": 0.04430000111460686,
+        "brightness_shift": 0.0057
+    },
+    {
+        "motion_energy": 0.03739999979734421,
+        "brightness_shift": 0.0287
+    },
+    {
+        "motion_energy": 0.03889999911189079,
+        "brightness_shift": 0.0782
+    },
+    {
+        "motion_energy": 0.03280000016093254,
+        "brightness_shift": 0.0096
+    },
+    {
+        "motion_energy": 0.04800000041723251,
+        "brightness_shift": 0.0569
+    },
+    {
+        "motion_energy": 0.03579999879002571,
+        "brightness_shift": 0.0493
+    },
+    {
+        "motion_energy": 0.033399999141693115,
+        "brightness_shift": 0.0047
+    },
+    {
+        "motion_energy": 0.043299999088048935,
+        "brightness_shift": 0.0151
+    },
+    {
+        "motion_energy": 0.03759999945759773,
+        "brightness_shift": 0.0054
+    },
+    {
+        "motion_energy": 0.049300000071525574,
+        "brightness_shift": 0.0165
+    },
+    {
+        "motion_energy": 0.03819999843835831,
+        "brightness_shift": 0.0054
+    },
+    {
+        "motion_energy": 0.0348999984562397,
+        "brightness_shift": 0.0067
+    },
+    {
+        "motion_energy": 0.03689999878406525,
+        "brightness_shift": 0.0077
+    },
+    {
+        "motion_energy": 0.06729999929666519,
+        "brightness_shift": 0.0265
+    },
+    {
+        "motion_energy": 0.03310000151395798,
+        "brightness_shift": 0.0224
+    },
+    {
+        "motion_energy": 0.02979999966919422,
+        "brightness_shift": 0.0159
+    },
+    {
+        "motion_energy": 0.03799999877810478,
+        "brightness_shift": 0.0198
+    },
+    {
+        "motion_energy": 0.041999999433755875,
+        "brightness_shift": 0.0146
+    },
+    {
+        "motion_energy": 0.034699998795986176,
+        "brightness_shift": 0.0166
+    },
+    {
+        "motion_energy": 0.04410000145435333,
+        "brightness_shift": 0.0074
+    },
+    {
+        "motion_energy": 0.03660000115633011,
+        "brightness_shift": 0.0082
+    },
+    {
+        "motion_energy": 0.043299999088048935,
+        "brightness_shift": 0.0317
+    },
+    {
+        "motion_energy": 0.04809999838471413,
+        "brightness_shift": 0.0023
+    },
+    {
+        "motion_energy": 0.03240000084042549,
+        "brightness_shift": 0.0186
+    },
+    {
+        "motion_energy": 0.03280000016093254,
+        "brightness_shift": 0.0168
+    },
+    {
+        "motion_energy": 0.04969999939203262,
+        "brightness_shift": 0.0514
+    },
+    {
+        "motion_energy": 0.05640000104904175,
+        "brightness_shift": 0.0022
+    },
+    {
+        "motion_energy": 0.032099999487400055,
+        "brightness_shift": 0.0132
+    },
+    {
+        "motion_energy": 0.049400001764297485,
+        "brightness_shift": 0.028
+    },
+    {
+        "motion_energy": 0.04580000042915344,
+        "brightness_shift": 0.0127
+    },
+    {
+        "motion_energy": 0.04899999871850014,
+        "brightness_shift": 0.0136
+    },
+    {
+        "motion_energy": 0.04529999941587448,
+        "brightness_shift": 0.0044
+    },
+    {
+        "motion_energy": 0.04010000079870224,
+        "brightness_shift": 0.0151
+    },
+    {
+        "motion_energy": 0.030700000002980232,
+        "brightness_shift": 0.012
+    },
+    {
+        "motion_energy": 0.051100000739097595,
+        "brightness_shift": 0.0414
+    },
+    {
+        "motion_energy": 0.046300001442432404,
+        "brightness_shift": 0.0558
+    },
+    {
+        "motion_energy": 0.030500000342726707,
+        "brightness_shift": 0.0056
+    },
+    {
+        "motion_energy": 0.05950000137090683,
+        "brightness_shift": 0.092
+    },
+    {
+        "motion_energy": 0.047600001096725464,
+        "brightness_shift": 0.062
+    },
+    {
+        "motion_energy": 0.04780000075697899,
+        "brightness_shift": 0.0079
+    },
+    {
+        "motion_energy": 0.034299999475479126,
+        "brightness_shift": 0.0236
+    },
+    {
+        "motion_energy": 0.0658000037074089,
+        "brightness_shift": 0.0642
+    },
+    {
+        "motion_energy": 0.0340999998152256,
+        "brightness_shift": 0.0042
+    },
+    {
+        "motion_energy": 0.06809999793767929,
+        "brightness_shift": 0.013
+    },
+    {
+        "motion_energy": 0.049400001764297485,
+        "brightness_shift": 0.0148
+    },
+    {
+        "motion_energy": 0.03750000149011612,
+        "brightness_shift": 0.0108
+    },
+    {
+        "motion_energy": 0.03909999877214432,
+        "brightness_shift": 0.0043
+    },
+    {
+        "motion_energy": 0.05590000003576279,
+        "brightness_shift": 0.0391
+    },
+    {
+        "motion_energy": 0.03240000084042549,
+        "brightness_shift": 0.0079
+    },
+    {
+        "motion_energy": 0.041099999099969864,
+        "brightness_shift": 0.0025
+    },
+    {
+        "motion_energy": 0.03970000147819519,
+        "brightness_shift": 0.0339
+    },
+    {
+        "motion_energy": 0.031599998474121094,
+        "brightness_shift": 0.0155
+    },
+    {
+        "motion_energy": 0.05689999833703041,
+        "brightness_shift": 0.0208
+    },
+    {
+        "motion_energy": 0.03579999879002571,
+        "brightness_shift": 0.0206
+    },
+    {
+        "motion_energy": 0.03310000151395798,
+        "brightness_shift": 0.0106
+    },
+    {
+        "motion_energy": 0.03020000085234642,
+        "brightness_shift": 0.0076
+    },
+    {
+        "motion_energy": 0.04769999906420708,
+        "brightness_shift": 0.0206
+    },
+    {
+        "motion_energy": 0.03539999946951866,
+        "brightness_shift": 0.0133
+    },
+    {
+        "motion_energy": 0.01940000057220459,
+        "brightness_shift": 0.0075
+    },
+    {
+        "motion_energy": 0.26100000739097595,
+        "brightness_shift": 0.3988
+    },
+    {
+        "motion_energy": 0.05249999836087227,
+        "brightness_shift": 0.0548
+    },
+    {
+        "motion_energy": 0.061400000005960464,
+        "brightness_shift": 0.0152
+    },
+    {
+        "motion_energy": 0.054099999368190765,
+        "brightness_shift": 0.0079
+    },
+    {
+        "motion_energy": 0.04430000111460686,
+        "brightness_shift": 0.0224
+    },
+    {
+        "motion_energy": 0.07020000368356705,
+        "brightness_shift": 0.0338
+    },
+    {
+        "motion_energy": 0.06859999895095825,
+        "brightness_shift": 0.017
+    },
+    {
+        "motion_energy": 0.04100000113248825,
+        "brightness_shift": 0.0049
+    },
+    {
+        "motion_energy": 0.08330000191926956,
+        "brightness_shift": 0.0171
+    },
+    {
+        "motion_energy": 0.0835999995470047,
+        "brightness_shift": 0.0561
+    },
+    {
+        "motion_energy": 0.10119999945163727,
+        "brightness_shift": 0.0303
+    },
+    {
+        "motion_energy": 0.06459999829530716,
+        "brightness_shift": 0.0732
+    },
+    {
+        "motion_energy": 0.1071000024676323,
+        "brightness_shift": 0.1079
+    },
+    {
+        "motion_energy": 0.04910000041127205,
+        "brightness_shift": 0.0066
+    },
+    {
+        "motion_energy": 0.09669999778270721,
+        "brightness_shift": 0.1194
+    },
+    {
+        "motion_energy": 0.0658000037074089,
+        "brightness_shift": 0.0538
+    },
+    {
+        "motion_energy": 0.06790000200271606,
+        "brightness_shift": 0.0047
+    },
+    {
+        "motion_energy": 0.05420000106096268,
+        "brightness_shift": 0.0121
+    },
+    {
+        "motion_energy": 0.05429999902844429,
+        "brightness_shift": 0.013
+    },
+    {
+        "motion_energy": 0.04349999874830246,
+        "brightness_shift": 0.0118
+    },
+    {
+        "motion_energy": 0.04619999974966049,
+        "brightness_shift": 0.0252
+    },
+    {
+        "motion_energy": 0.06610000133514404,
+        "brightness_shift": 0.01
+    },
+    {
+        "motion_energy": 0.03200000151991844,
+        "brightness_shift": 0.0075
+    },
+    {
+        "motion_energy": 6.648099899291992,
+        "brightness_shift": 6.4884
+    },
+    {
+        "motion_energy": 0.023099999874830246,
+        "brightness_shift": 0.0141
+    },
+    {
+        "motion_energy": 0.031300000846385956,
+        "brightness_shift": 0.0096
+    },
+    {
+        "motion_energy": 0.0203000009059906,
+        "brightness_shift": 0.0069
+    },
+    {
+        "motion_energy": 0.023499999195337296,
+        "brightness_shift": 0.0127
+    },
+    {
+        "motion_energy": 0.016699999570846558,
+        "brightness_shift": 0.0068
+    },
+    {
+        "motion_energy": 0.01640000008046627,
+        "brightness_shift": 0.0065
+    },
+    {
+        "motion_energy": 0.020999999716877937,
+        "brightness_shift": 0.0036
+    },
+    {
+        "motion_energy": 0.027899999171495438,
+        "brightness_shift": 0.0277
+    },
+    {
+        "motion_energy": 0.041999999433755875,
+        "brightness_shift": 0.0685
+    },
+    {
+        "motion_energy": 0.066600002348423,
+        "brightness_shift": 0.0185
+    },
+    {
+        "motion_energy": 0.07450000196695328,
+        "brightness_shift": 0.0126
+    },
+    {
+        "motion_energy": 0.07660000026226044,
+        "brightness_shift": 0.0183
+    },
+    {
+        "motion_energy": 0.09189999848604202,
+        "brightness_shift": 0.0683
+    },
+    {
+        "motion_energy": 0.15559999644756317,
+        "brightness_shift": 0.1801
+    },
+    {
+        "motion_energy": 0.09560000151395798,
+        "brightness_shift": 0.046
+    },
+    {
+        "motion_energy": 0.06210000067949295,
+        "brightness_shift": 0.0629
+    },
+    {
+        "motion_energy": 0.09629999846220016,
+        "brightness_shift": 0.0347
+    },
+    {
+        "motion_energy": 0.08089999854564667,
+        "brightness_shift": 0.0177
+    },
+    {
+        "motion_energy": 0.06319999694824219,
+        "brightness_shift": 0.0185
+    },
+    {
+        "motion_energy": 0.09099999815225601,
+        "brightness_shift": 0.0413
+    },
+    {
+        "motion_energy": 0.09749999642372131,
+        "brightness_shift": 0.0062
+    },
+    {
+        "motion_energy": 0.07760000228881836,
+        "brightness_shift": 0.0087
+    },
+    {
+        "motion_energy": 0.10159999877214432,
+        "brightness_shift": 0.0331
+    },
+    {
+        "motion_energy": 0.08219999819993973,
+        "brightness_shift": 0.0805
+    },
+    {
+        "motion_energy": 0.11129999905824661,
+        "brightness_shift": 0.0288
+    },
+    {
+        "motion_energy": 0.08009999990463257,
+        "brightness_shift": 0.0591
+    },
+    {
+        "motion_energy": 0.10899999737739563,
+        "brightness_shift": 0.1035
+    },
+    {
+        "motion_energy": 0.07259999960660934,
+        "brightness_shift": 0.0403
+    },
+    {
+        "motion_energy": 0.07639999687671661,
+        "brightness_shift": 0.0179
+    },
+    {
+        "motion_energy": 0.1306000053882599,
+        "brightness_shift": 0.1005
+    },
+    {
+        "motion_energy": 0.11020000278949738,
+        "brightness_shift": 0.045
+    },
+    {
+        "motion_energy": 0.06199999898672104,
+        "brightness_shift": 0.061
+    },
+    {
+        "motion_energy": 0.09629999846220016,
+        "brightness_shift": 0.0856
+    },
+    {
+        "motion_energy": 0.08139999955892563,
+        "brightness_shift": 0.0081
+    },
+    {
+        "motion_energy": 0.07360000163316727,
+        "brightness_shift": 0.0063
+    },
+    {
+        "motion_energy": 0.07360000163316727,
+        "brightness_shift": 0.0404
+    },
+    {
+        "motion_energy": 0.07280000299215317,
+        "brightness_shift": 0.0849
+    },
+    {
+        "motion_energy": 0.131400004029274,
+        "brightness_shift": 0.0739
+    },
+    {
+        "motion_energy": 0.08150000125169754,
+        "brightness_shift": 0.0592
+    },
+    {
+        "motion_energy": 0.07410000264644623,
+        "brightness_shift": 0.0947
+    },
+    {
+        "motion_energy": 0.09380000084638596,
+        "brightness_shift": 0.0193
+    },
+    {
+        "motion_energy": 0.025599999353289604,
+        "brightness_shift": 0.0118
+    },
+    {
+        "motion_energy": 0.09780000150203705,
+        "brightness_shift": 0.0067
+    },
+    {
+        "motion_energy": 0.06129999831318855,
+        "brightness_shift": 0.0277
+    },
+    {
+        "motion_energy": 0.07259999960660934,
+        "brightness_shift": 0.0549
+    },
+    {
+        "motion_energy": 0.05810000002384186,
+        "brightness_shift": 0.0736
+    },
+    {
+        "motion_energy": 0.15530000627040863,
+        "brightness_shift": 0.0262
+    },
+    {
+        "motion_energy": 0.09759999811649323,
+        "brightness_shift": 0.0645
+    },
+    {
+        "motion_energy": 0.07410000264644623,
+        "brightness_shift": 0.0582
+    },
+    {
+        "motion_energy": 0.06469999998807907,
+        "brightness_shift": 0.0194
+    },
+    {
+        "motion_energy": 0.11110000312328339,
+        "brightness_shift": 0.0944
+    },
+    {
+        "motion_energy": 0.09510000050067902,
+        "brightness_shift": 0.0441
+    },
+    {
+        "motion_energy": 0.11190000176429749,
+        "brightness_shift": 0.0512
+    },
+    {
+        "motion_energy": 0.09120000153779984,
+        "brightness_shift": 0.0127
+    },
+    {
+        "motion_energy": 0.12610000371932983,
+        "brightness_shift": 0.0256
+    },
+    {
+        "motion_energy": 0.11069999635219574,
+        "brightness_shift": 0.026
+    },
+    {
+        "motion_energy": 0.09749999642372131,
+        "brightness_shift": 0.0578
+    },
+    {
+        "motion_energy": 0.08209999650716782,
+        "brightness_shift": 0.0259
+    },
+    {
+        "motion_energy": 0.12020000070333481,
+        "brightness_shift": 0.1324
+    },
+    {
+        "motion_energy": 0.09650000184774399,
+        "brightness_shift": 0.0231
+    },
+    {
+        "motion_energy": 0.08590000122785568,
+        "brightness_shift": 0.0455
+    },
+    {
+        "motion_energy": 0.0828000009059906,
+        "brightness_shift": 0.0132
+    },
+    {
+        "motion_energy": 0.13670000433921814,
+        "brightness_shift": 0.0586
+    },
+    {
+        "motion_energy": 0.09700000286102295,
+        "brightness_shift": 0.0497
+    },
+    {
+        "motion_energy": 0.05739999935030937,
+        "brightness_shift": 0.0446
+    },
+    {
+        "motion_energy": 0.08380000293254852,
+        "brightness_shift": 0.0386
+    },
+    {
+        "motion_energy": 0.0966000035405159,
+        "brightness_shift": 0.0543
+    },
+    {
+        "motion_energy": 0.06509999930858612,
+        "brightness_shift": 0.0129
+    },
+    {
+        "motion_energy": 0.10670000314712524,
+        "brightness_shift": 0.0213
+    },
+    {
+        "motion_energy": 0.06780000030994415,
+        "brightness_shift": 0.0489
+    },
+    {
+        "motion_energy": 0.14139999449253082,
+        "brightness_shift": 0.0898
+    },
+    {
+        "motion_energy": 0.07000000029802322,
+        "brightness_shift": 0.0476
+    },
+    {
+        "motion_energy": 0.1145000010728836,
+        "brightness_shift": 0.0318
+    },
+    {
+        "motion_energy": 0.12399999797344208,
+        "brightness_shift": 0.0349
+    },
+    {
+        "motion_energy": 0.16009999811649323,
+        "brightness_shift": 0.0659
+    },
+    {
+        "motion_energy": 0.06390000134706497,
+        "brightness_shift": 0.0212
+    },
+    {
+        "motion_energy": 0.08550000190734863,
+        "brightness_shift": 0.0467
+    },
+    {
+        "motion_energy": 0.09849999845027924,
+        "brightness_shift": 0.0437
+    },
+    {
+        "motion_energy": 0.20980000495910645,
+        "brightness_shift": 0.0278
+    },
+    {
+        "motion_energy": 0.11050000041723251,
+        "brightness_shift": 0.0148
+    },
+    {
+        "motion_energy": 0.0835999995470047,
+        "brightness_shift": 0.0885
+    },
+    {
+        "motion_energy": 0.07360000163316727,
+        "brightness_shift": 0.0239
+    },
+    {
+        "motion_energy": 0.026599999517202377,
+        "brightness_shift": 0.0093
+    },
+    {
+        "motion_energy": 0.10329999774694443,
+        "brightness_shift": 0.1397
+    },
+    {
+        "motion_energy": 0.06040000170469284,
+        "brightness_shift": 0.0179
+    },
+    {
+        "motion_energy": 0.07129999995231628,
+        "brightness_shift": 0.0133
+    },
+    {
+        "motion_energy": 0.07999999821186066,
+        "brightness_shift": 0.0329
+    },
+    {
+        "motion_energy": 0.13269999623298645,
+        "brightness_shift": 0.082
+    },
+    {
+        "motion_energy": 0.10790000110864639,
+        "brightness_shift": 0.0263
+    },
+    {
+        "motion_energy": 0.10050000250339508,
+        "brightness_shift": 0.0489
+    },
+    {
+        "motion_energy": 0.08699999749660492,
+        "brightness_shift": 0.0309
+    },
+    {
+        "motion_energy": 0.1657000035047531,
+        "brightness_shift": 0.1133
+    },
+    {
+        "motion_energy": 0.07270000129938126,
+        "brightness_shift": 0.0151
+    },
+    {
+        "motion_energy": 0.0917000025510788,
+        "brightness_shift": 0.0421
+    },
+    {
+        "motion_energy": 0.11140000075101852,
+        "brightness_shift": 0.0297
+    },
+    {
+        "motion_energy": 0.1363999992609024,
+        "brightness_shift": 0.0549
+    },
+    {
+        "motion_energy": 0.09740000218153,
+        "brightness_shift": 0.0026
+    },
+    {
+        "motion_energy": 0.11230000108480453,
+        "brightness_shift": 0.026
+    },
+    {
+        "motion_energy": 0.10130000114440918,
+        "brightness_shift": 0.0311
+    },
+    {
+        "motion_energy": 0.14869999885559082,
+        "brightness_shift": 0.0658
+    },
+    {
+        "motion_energy": 0.10700000077486038,
+        "brightness_shift": 0.104
+    },
+    {
+        "motion_energy": 0.08709999918937683,
+        "brightness_shift": 0.082
+    },
+    {
+        "motion_energy": 0.11389999836683273,
+        "brightness_shift": 0.0893
+    },
+    {
+        "motion_energy": 0.1712999939918518,
+        "brightness_shift": 0.1046
+    },
+    {
+        "motion_energy": 0.1120000034570694,
+        "brightness_shift": 0.0674
+    },
+    {
+        "motion_energy": 0.12770000100135803,
+        "brightness_shift": 0.0558
+    },
+    {
+        "motion_energy": 0.14000000059604645,
+        "brightness_shift": 0.0317
+    },
+    {
+        "motion_energy": 0.16099999845027924,
+        "brightness_shift": 0.0365
+    },
+    {
+        "motion_energy": 0.2460000067949295,
+        "brightness_shift": 0.0496
+    },
+    {
+        "motion_energy": 0.06080000102519989,
+        "brightness_shift": 0.1181
+    },
+    {
+        "motion_energy": 0.0966000035405159,
+        "brightness_shift": 0.1263
+    },
+    {
+        "motion_energy": 0.27959999442100525,
+        "brightness_shift": 0.1886
+    },
+    {
+        "motion_energy": 0.07880000025033951,
+        "brightness_shift": 0.0585
+    },
+    {
+        "motion_energy": 0.1695999950170517,
+        "brightness_shift": 0.0402
+    },
+    {
+        "motion_energy": 0.08399999886751175,
+        "brightness_shift": 0.0663
+    },
+    {
+        "motion_energy": 0.3000999987125397,
+        "brightness_shift": 0.1131
+    },
+    {
+        "motion_energy": 0.08860000222921371,
+        "brightness_shift": 0.0406
+    },
+    {
+        "motion_energy": 0.11620000004768372,
+        "brightness_shift": 0.063
+    },
+    {
+        "motion_energy": 0.1324000060558319,
+        "brightness_shift": 0.0361
+    },
+    {
+        "motion_energy": 0.1274999976158142,
+        "brightness_shift": 0.0431
+    },
+    {
+        "motion_energy": 0.18700000643730164,
+        "brightness_shift": 0.0849
+    },
+    {
+        "motion_energy": 0.11219999939203262,
+        "brightness_shift": 0.0164
+    },
+    {
+        "motion_energy": 0.10700000077486038,
+        "brightness_shift": 0.0213
+    },
+    {
+        "motion_energy": 7.483099937438965,
+        "brightness_shift": 6.4949
+    },
+    {
+        "motion_energy": 0.05310000106692314,
+        "brightness_shift": 0.061
+    },
+    {
+        "motion_energy": 0.07999999821186066,
+        "brightness_shift": 0.1007
+    },
+    {
+        "motion_energy": 0.06719999760389328,
+        "brightness_shift": 0.022
+    },
+    {
+        "motion_energy": 0.05950000137090683,
+        "brightness_shift": 0.0551
+    },
+    {
+        "motion_energy": 0.0778999999165535,
+        "brightness_shift": 0.026
+    },
+    {
+        "motion_energy": 0.07090000063180923,
+        "brightness_shift": 0.0535
+    },
+    {
+        "motion_energy": 0.0640999972820282,
+        "brightness_shift": 0.0112
+    },
+    {
+        "motion_energy": 0.0778999999165535,
+        "brightness_shift": 0.006
+    },
+    {
+        "motion_energy": 0.04830000177025795,
+        "brightness_shift": 0.0142
+    },
+    {
+        "motion_energy": 0.07590000331401825,
+        "brightness_shift": 0.1038
+    },
+    {
+        "motion_energy": 0.053700000047683716,
+        "brightness_shift": 0.0234
+    },
+    {
+        "motion_energy": 0.06920000165700912,
+        "brightness_shift": 0.0387
+    },
+    {
+        "motion_energy": 0.05559999868273735,
+        "brightness_shift": 0.0452
+    },
+    {
+        "motion_energy": 0.08299999684095383,
+        "brightness_shift": 0.0006
+    },
+    {
+        "motion_energy": 0.06729999929666519,
+        "brightness_shift": 0.0888
+    },
+    {
+        "motion_energy": 0.04430000111460686,
+        "brightness_shift": 0.0328
+    },
+    {
+        "motion_energy": 0.06840000301599503,
+        "brightness_shift": 0.0655
+    },
+    {
+        "motion_energy": 0.08060000091791153,
+        "brightness_shift": 0.0005
+    },
+    {
+        "motion_energy": 0.04769999906420708,
+        "brightness_shift": 0.0199
+    },
+    {
+        "motion_energy": 0.05950000137090683,
+        "brightness_shift": 0.0079
+    },
+    {
+        "motion_energy": 0.07129999995231628,
+        "brightness_shift": 0.0345
+    },
+    {
+        "motion_energy": 0.07660000026226044,
+        "brightness_shift": 0.0472
+    },
+    {
+        "motion_energy": 0.06199999898672104,
+        "brightness_shift": 0.0339
+    },
+    {
+        "motion_energy": 0.07890000194311142,
+        "brightness_shift": 0.0742
+    },
+    {
+        "motion_energy": 0.05469999834895134,
+        "brightness_shift": 0.0334
+    },
+    {
+        "motion_energy": 0.05389999970793724,
+        "brightness_shift": 0.0086
+    },
+    {
+        "motion_energy": 0.05889999866485596,
+        "brightness_shift": 0.0856
+    },
+    {
+        "motion_energy": 0.054099999368190765,
+        "brightness_shift": 0.0265
+    },
+    {
+        "motion_energy": 0.08760000020265579,
+        "brightness_shift": 0.0646
+    },
+    {
+        "motion_energy": 0.06719999760389328,
+        "brightness_shift": 0.1072
+    },
+    {
+        "motion_energy": 0.054999999701976776,
+        "brightness_shift": 0.0323
+    },
+    {
+        "motion_energy": 0.0731000006198883,
+        "brightness_shift": 0.0651
+    },
+    {
+        "motion_energy": 0.06830000132322311,
+        "brightness_shift": 0.0008
+    },
+    {
+        "motion_energy": 0.04690000042319298,
+        "brightness_shift": 0.0284
+    },
+    {
+        "motion_energy": 0.07150000333786011,
+        "brightness_shift": 0.032
+    },
+    {
+        "motion_energy": 0.06350000202655792,
+        "brightness_shift": 0.0596
+    },
+    {
+        "motion_energy": 0.06040000170469284,
+        "brightness_shift": 0.011
+    },
+    {
+        "motion_energy": 0.07050000131130219,
+        "brightness_shift": 0.0362
+    },
+    {
+        "motion_energy": 0.06289999932050705,
+        "brightness_shift": 0.0508
+    },
+    {
+        "motion_energy": 0.05490000173449516,
+        "brightness_shift": 0.0126
+    },
+    {
+        "motion_energy": 0.08669999986886978,
+        "brightness_shift": 0.0354
+    },
+    {
+        "motion_energy": 0.05860000103712082,
+        "brightness_shift": 0.0143
+    },
+    {
+        "motion_energy": 0.07069999724626541,
+        "brightness_shift": 0.0065
+    },
+    {
+        "motion_energy": 0.06629999727010727,
+        "brightness_shift": 0.0529
+    },
+    {
+        "motion_energy": 0.07649999856948853,
+        "brightness_shift": 0.0338
+    },
+    {
+        "motion_energy": 0.06390000134706497,
+        "brightness_shift": 0.0251
+    },
+    {
+        "motion_energy": 0.06449999660253525,
+        "brightness_shift": 0.0627
+    },
+    {
+        "motion_energy": 0.051100000739097595,
+        "brightness_shift": 0.0378
+    },
+    {
+        "motion_energy": 0.08229999989271164,
+        "brightness_shift": 0.0383
+    },
+    {
+        "motion_energy": 0.062300000339746475,
+        "brightness_shift": 0.0232
+    },
+    {
+        "motion_energy": 0.05249999836087227,
+        "brightness_shift": 0.0357
+    },
+    {
+        "motion_energy": 0.043699998408555984,
+        "brightness_shift": 0.0017
+    },
+    {
+        "motion_energy": 0.0851999968290329,
+        "brightness_shift": 0.0063
+    },
+    {
+        "motion_energy": 0.06440000236034393,
+        "brightness_shift": 0.0348
+    },
+    {
+        "motion_energy": 0.057500001043081284,
+        "brightness_shift": 0.02
+    },
+    {
+        "motion_energy": 0.07729999721050262,
+        "brightness_shift": 0.0027
+    },
+    {
+        "motion_energy": 0.05779999867081642,
+        "brightness_shift": 0.0018
+    },
+    {
+        "motion_energy": 0.04619999974966049,
+        "brightness_shift": 0.006
+    },
+    {
+        "motion_energy": 0.049800001084804535,
+        "brightness_shift": 0.0348
+    },
+    {
+        "motion_energy": 0.05090000107884407,
+        "brightness_shift": 0.0623
+    },
+    {
+        "motion_energy": 0.14499999582767487,
+        "brightness_shift": 0.0482
+    },
+    {
+        "motion_energy": 0.03009999915957451,
+        "brightness_shift": 0.0196
+    },
+    {
+        "motion_energy": 0.03689999878406525,
+        "brightness_shift": 0.0184
+    },
+    {
+        "motion_energy": 8.845399856567383,
+        "brightness_shift": 4.1299
+    },
+    {
+        "motion_energy": 0.04639999940991402,
+        "brightness_shift": 0.0399
+    },
+    {
+        "motion_energy": 0.0471000000834465,
+        "brightness_shift": 0.0274
+    },
+    {
+        "motion_energy": 0.06689999997615814,
+        "brightness_shift": 0.0036
+    },
+    {
+        "motion_energy": 0.33149999380111694,
+        "brightness_shift": 0.0832
+    },
+    {
+        "motion_energy": 0.18379999697208405,
+        "brightness_shift": 0.0515
+    },
+    {
+        "motion_energy": 0.11760000139474869,
+        "brightness_shift": 0.0882
+    },
+    {
+        "motion_energy": 0.15800000727176666,
+        "brightness_shift": 0.0176
+    },
+    {
+        "motion_energy": 0.08190000057220459,
+        "brightness_shift": 0.0508
+    },
+    {
+        "motion_energy": 0.06759999692440033,
+        "brightness_shift": 0.0316
+    },
+    {
+        "motion_energy": 0.21209999918937683,
+        "brightness_shift": 0.0944
+    },
+    {
+        "motion_energy": 0.2272000014781952,
+        "brightness_shift": 0.0029
+    },
+    {
+        "motion_energy": 0.25380000472068787,
+        "brightness_shift": 0.0146
+    },
+    {
+        "motion_energy": 0.23919999599456787,
+        "brightness_shift": 0.0742
+    },
+    {
+        "motion_energy": 0.09049999713897705,
+        "brightness_shift": 0.0283
+    },
+    {
+        "motion_energy": 0.2101999968290329,
+        "brightness_shift": 0.075
+    },
+    {
+        "motion_energy": 0.1965000033378601,
+        "brightness_shift": 0.05
+    },
+    {
+        "motion_energy": 0.21449999511241913,
+        "brightness_shift": 0.0899
+    },
+    {
+        "motion_energy": 0.22179999947547913,
+        "brightness_shift": 0.0935
+    },
+    {
+        "motion_energy": 0.13510000705718994,
+        "brightness_shift": 0.0334
+    },
+    {
+        "motion_energy": 0.15449999272823334,
+        "brightness_shift": 0.0207
+    },
+    {
+        "motion_energy": 0.19789999723434448,
+        "brightness_shift": 0.1409
+    },
+    {
+        "motion_energy": 0.09709999710321426,
+        "brightness_shift": 0.0117
+    },
+    {
+        "motion_energy": 0.1965000033378601,
+        "brightness_shift": 0.066
+    },
+    {
+        "motion_energy": 0.0835999995470047,
+        "brightness_shift": 0.0155
+    },
+    {
+        "motion_energy": 0.11209999769926071,
+        "brightness_shift": 0.054
+    },
+    {
+        "motion_energy": 0.056699998676776886,
+        "brightness_shift": 0.0126
+    },
+    {
+        "motion_energy": 0.11079999804496765,
+        "brightness_shift": 0.0763
+    },
+    {
+        "motion_energy": 0.14229999482631683,
+        "brightness_shift": 0.0257
+    },
+    {
+        "motion_energy": 0.08299999684095383,
+        "brightness_shift": 0.0477
+    },
+    {
+        "motion_energy": 0.09790000319480896,
+        "brightness_shift": 0.1479
+    },
+    {
+        "motion_energy": 0.1890999972820282,
+        "brightness_shift": 0.0232
+    },
+    {
+        "motion_energy": 0.07699999958276749,
+        "brightness_shift": 0.0055
+    },
+    {
+        "motion_energy": 0.07100000232458115,
+        "brightness_shift": 0.0474
+    },
+    {
+        "motion_energy": 0.03700000047683716,
+        "brightness_shift": 0.0052
+    },
+    {
+        "motion_energy": 0.055399999022483826,
+        "brightness_shift": 0.0068
+    },
+    {
+        "motion_energy": 0.06560000032186508,
+        "brightness_shift": 0.0288
+    },
+    {
+        "motion_energy": 0.3521000146865845,
+        "brightness_shift": 0.141
+    },
+    {
+        "motion_energy": 0.048500001430511475,
+        "brightness_shift": 0.0468
+    },
+    {
+        "motion_energy": 0.04410000145435333,
+        "brightness_shift": 0.0054
+    },
+    {
+        "motion_energy": 0.07840000092983246,
+        "brightness_shift": 0.0238
+    },
+    {
+        "motion_energy": 0.06949999928474426,
+        "brightness_shift": 0.0201
+    },
+    {
+        "motion_energy": 0.1324000060558319,
+        "brightness_shift": 0.0529
+    },
+    {
+        "motion_energy": 0.1509000062942505,
+        "brightness_shift": 0.0473
+    },
+    {
+        "motion_energy": 0.04699999839067459,
+        "brightness_shift": 0.0216
+    },
+    {
+        "motion_energy": 0.043299999088048935,
+        "brightness_shift": 0.0311
+    },
+    {
+        "motion_energy": 0.09759999811649323,
+        "brightness_shift": 0.0032
+    },
+    {
+        "motion_energy": 0.05400000140070915,
+        "brightness_shift": 0.0501
+    },
+    {
+        "motion_energy": 0.10459999740123749,
+        "brightness_shift": 0.0122
+    },
+    {
+        "motion_energy": 0.16359999775886536,
+        "brightness_shift": 0.0696
+    },
+    {
+        "motion_energy": 0.0649000033736229,
+        "brightness_shift": 0.0247
+    },
+    {
+        "motion_energy": 0.10379999876022339,
+        "brightness_shift": 0.017
+    },
+    {
+        "motion_energy": 0.12240000069141388,
+        "brightness_shift": 0.0229
+    },
+    {
+        "motion_energy": 0.2198999971151352,
+        "brightness_shift": 0.068
+    },
+    {
+        "motion_energy": 0.04089999943971634,
+        "brightness_shift": 0.0851
+    },
+    {
+        "motion_energy": 0.09319999814033508,
+        "brightness_shift": 0.0037
+    },
+    {
+        "motion_energy": 0.03629999980330467,
+        "brightness_shift": 0.0122
+    },
+    {
+        "motion_energy": 0.1347000002861023,
+        "brightness_shift": 0.0307
+    },
+    {
+        "motion_energy": 0.07280000299215317,
+        "brightness_shift": 0.0119
+    },
+    {
+        "motion_energy": 0.09709999710321426,
+        "brightness_shift": 0.0144
+    },
+    {
+        "motion_energy": 0.2037999927997589,
+        "brightness_shift": 0.053
+    },
+    {
+        "motion_energy": 10.56190013885498,
+        "brightness_shift": 11.3451
+    },
+    {
+        "motion_energy": 0.4032999873161316,
+        "brightness_shift": 0.2003
+    },
+    {
+        "motion_energy": 0.4426000118255615,
+        "brightness_shift": 0.1862
+    },
+    {
+        "motion_energy": 0.15600000321865082,
+        "brightness_shift": 0.0713
+    },
+    {
+        "motion_energy": 0.20160000026226044,
+        "brightness_shift": 0.1483
+    },
+    {
+        "motion_energy": 0.20909999310970306,
+        "brightness_shift": 0.0709
+    },
+    {
+        "motion_energy": 0.5666999816894531,
+        "brightness_shift": 0.0238
+    },
+    {
+        "motion_energy": 0.19380000233650208,
+        "brightness_shift": 0.0701
+    },
+    {
+        "motion_energy": 0.1662999987602234,
+        "brightness_shift": 0.0523
+    },
+    {
+        "motion_energy": 0.2802000045776367,
+        "brightness_shift": 0.0195
+    },
+    {
+        "motion_energy": 0.1981000006198883,
+        "brightness_shift": 0.0876
+    },
+    {
+        "motion_energy": 0.26510000228881836,
+        "brightness_shift": 0.1489
+    },
+    {
+        "motion_energy": 0.2689000070095062,
+        "brightness_shift": 0.1372
+    },
+    {
+        "motion_energy": 0.2084999978542328,
+        "brightness_shift": 0.0456
+    },
+    {
+        "motion_energy": 0.18719999492168427,
+        "brightness_shift": 0.0009
+    },
+    {
+        "motion_energy": 0.1964000016450882,
+        "brightness_shift": 0.0536
+    },
+    {
+        "motion_energy": 0.16519999504089355,
+        "brightness_shift": 0.0269
+    },
+    {
+        "motion_energy": 0.19589999318122864,
+        "brightness_shift": 0.0618
+    },
+    {
+        "motion_energy": 0.186599999666214,
+        "brightness_shift": 0.1093
+    },
+    {
+        "motion_energy": 0.38339999318122864,
+        "brightness_shift": 0.1363
+    },
+    {
+        "motion_energy": 0.5641000270843506,
+        "brightness_shift": 0.0465
+    },
+    {
+        "motion_energy": 0.3546999990940094,
+        "brightness_shift": 0.0517
+    },
+    {
+        "motion_energy": 0.2094999998807907,
+        "brightness_shift": 0.0229
+    },
+    {
+        "motion_energy": 0.20630000531673431,
+        "brightness_shift": 0.0491
+    },
+    {
+        "motion_energy": 0.16990000009536743,
+        "brightness_shift": 0.0651
+    },
+    {
+        "motion_energy": 0.29490000009536743,
+        "brightness_shift": 0.0529
+    },
+    {
+        "motion_energy": 0.2964000105857849,
+        "brightness_shift": 0.0485
+    },
+    {
+        "motion_energy": 0.29030001163482666,
+        "brightness_shift": 0.125
+    },
+    {
+        "motion_energy": 0.2046000063419342,
+        "brightness_shift": 0.0585
+    },
+    {
+        "motion_energy": 0.34529998898506165,
+        "brightness_shift": 0.0087
+    },
+    {
+        "motion_energy": 0.41589999198913574,
+        "brightness_shift": 0.0962
+    },
+    {
+        "motion_energy": 0.3089999854564667,
+        "brightness_shift": 0.0433
+    },
+    {
+        "motion_energy": 0.4066999852657318,
+        "brightness_shift": 0.0509
+    },
+    {
+        "motion_energy": 0.3476000130176544,
+        "brightness_shift": 0.0735
+    },
+    {
+        "motion_energy": 0.40860000252723694,
+        "brightness_shift": 0.0286
+    },
+    {
+        "motion_energy": 0.44850000739097595,
+        "brightness_shift": 0.0164
+    },
+    {
+        "motion_energy": 0.36890000104904175,
+        "brightness_shift": 0.0995
+    },
+    {
+        "motion_energy": 0.34060001373291016,
+        "brightness_shift": 0.0192
+    },
+    {
+        "motion_energy": 0.26330000162124634,
+        "brightness_shift": 0.0112
+    },
+    {
+        "motion_energy": 0.21649999916553497,
+        "brightness_shift": 0.0704
+    },
+    {
+        "motion_energy": 0.1923999935388565,
+        "brightness_shift": 0.0346
+    },
+    {
+        "motion_energy": 0.3174999952316284,
+        "brightness_shift": 0.0015
+    },
+    {
+        "motion_energy": 0.4140999913215637,
+        "brightness_shift": 0.1379
+    },
+    {
+        "motion_energy": 0.5766000151634216,
+        "brightness_shift": 0.2341
+    },
+    {
+        "motion_energy": 0.6155999898910522,
+        "brightness_shift": 0.0076
+    },
+    {
+        "motion_energy": 0.6456999778747559,
+        "brightness_shift": 0.1012
+    },
+    {
+        "motion_energy": 0.46959999203681946,
+        "brightness_shift": 0.042
+    },
+    {
+        "motion_energy": 0.20399999618530273,
+        "brightness_shift": 0.1038
+    },
+    {
+        "motion_energy": 0.17499999701976776,
+        "brightness_shift": 0.0511
+    },
+    {
+        "motion_energy": 0.1657000035047531,
+        "brightness_shift": 0.0126
+    },
+    {
+        "motion_energy": 0.2433999925851822,
+        "brightness_shift": 0.0284
+    },
+    {
+        "motion_energy": 0.4666999876499176,
+        "brightness_shift": 0.1067
+    },
+    {
+        "motion_energy": 0.588100016117096,
+        "brightness_shift": 0.0349
+    },
+    {
+        "motion_energy": 0.4537999927997589,
+        "brightness_shift": 0.0505
+    },
+    {
+        "motion_energy": 0.1873999983072281,
+        "brightness_shift": 0.0732
+    },
+    {
+        "motion_energy": 0.2802000045776367,
+        "brightness_shift": 0.0474
+    },
+    {
+        "motion_energy": 0.28780001401901245,
+        "brightness_shift": 0.1662
+    },
+    {
+        "motion_energy": 0.24789999425411224,
+        "brightness_shift": 0.0278
+    },
+    {
+        "motion_energy": 0.1111999973654747,
+        "brightness_shift": 0.0087
+    },
+    {
+        "motion_energy": 0.24690000712871552,
+        "brightness_shift": 0.0825
+    },
+    {
+        "motion_energy": 0.29910001158714294,
+        "brightness_shift": 0.0905
+    },
+    {
+        "motion_energy": 0.28859999775886536,
+        "brightness_shift": 0.0652
+    },
+    {
+        "motion_energy": 0.2621000111103058,
+        "brightness_shift": 0.1084
+    },
+    {
+        "motion_energy": 0.25360000133514404,
+        "brightness_shift": 0.062
+    },
+    {
+        "motion_energy": 0.16200000047683716,
+        "brightness_shift": 0.0661
+    },
+    {
+        "motion_energy": 0.1987999975681305,
+        "brightness_shift": 0.1009
+    },
+    {
+        "motion_energy": 0.20160000026226044,
+        "brightness_shift": 0.0962
+    },
+    {
+        "motion_energy": 0.273499995470047,
+        "brightness_shift": 0.0365
+    },
+    {
+        "motion_energy": 0.13570000231266022,
+        "brightness_shift": 0.078
+    },
+    {
+        "motion_energy": 0.2946000099182129,
+        "brightness_shift": 0.0179
+    },
+    {
+        "motion_energy": 0.398499995470047,
+        "brightness_shift": 0.0186
+    },
+    {
+        "motion_energy": 0.2775999903678894,
+        "brightness_shift": 0.192
+    },
+    {
+        "motion_energy": 0.1177000030875206,
+        "brightness_shift": 0.005
+    },
+    {
+        "motion_energy": 0.13339999318122864,
+        "brightness_shift": 0.0385
+    },
+    {
+        "motion_energy": 0.17270000278949738,
+        "brightness_shift": 0.0074
+    },
+    {
+        "motion_energy": 0.323199987411499,
+        "brightness_shift": 0.0665
+    },
+    {
+        "motion_energy": 0.3847000002861023,
+        "brightness_shift": 0.042
+    },
+    {
+        "motion_energy": 0.4066999852657318,
+        "brightness_shift": 0.045
+    },
+    {
+        "motion_energy": 0.3179999887943268,
+        "brightness_shift": 0.0714
+    },
+    {
+        "motion_energy": 0.23340000212192535,
+        "brightness_shift": 0.0151
+    },
+    {
+        "motion_energy": 0.22609999775886536,
+        "brightness_shift": 0.0731
+    },
+    {
+        "motion_energy": 0.47940000891685486,
+        "brightness_shift": 0.0383
+    },
+    {
+        "motion_energy": 0.2529999911785126,
+        "brightness_shift": 0.0488
+    },
+    {
+        "motion_energy": 0.30649998784065247,
+        "brightness_shift": 0.0836
+    },
+    {
+        "motion_energy": 0.3790999948978424,
+        "brightness_shift": 0.1275
+    },
+    {
+        "motion_energy": 0.17890000343322754,
+        "brightness_shift": 0.0544
+    },
+    {
+        "motion_energy": 0.19269999861717224,
+        "brightness_shift": 0.0291
+    },
+    {
+        "motion_energy": 0.21649999916553497,
+        "brightness_shift": 0.0794
+    },
+    {
+        "motion_energy": 0.2705000042915344,
+        "brightness_shift": 0.0077
+    },
+    {
+        "motion_energy": 0.27309998869895935,
+        "brightness_shift": 0.0378
+    },
+    {
+        "motion_energy": 0.4607999920845032,
+        "brightness_shift": 0.1561
+    },
+    {
+        "motion_energy": 0.4138000011444092,
+        "brightness_shift": 0.0686
+    },
+    {
+        "motion_energy": 0.23430000245571136,
+        "brightness_shift": 0.0021
+    },
+    {
+        "motion_energy": 0.3610000014305115,
+        "brightness_shift": 0.0498
+    },
+    {
+        "motion_energy": 0.35350000858306885,
+        "brightness_shift": 0.0611
+    },
+    {
+        "motion_energy": 0.24879999458789825,
+        "brightness_shift": 0.0077
+    },
+    {
+        "motion_energy": 7.416800022125244,
+        "brightness_shift": 20.7257
+    },
+    {
+        "motion_energy": 0.07100000232458115,
+        "brightness_shift": 0.0123
+    },
+    {
+        "motion_energy": 0.07259999960660934,
+        "brightness_shift": 0.0244
+    },
+    {
+        "motion_energy": 0.13500000536441803,
+        "brightness_shift": 0.0422
+    },
+    {
+        "motion_energy": 0.17980000376701355,
+        "brightness_shift": 0.0712
+    },
+    {
+        "motion_energy": 0.17020000517368317,
+        "brightness_shift": 0.037
+    },
+    {
+        "motion_energy": 0.09449999779462814,
+        "brightness_shift": 0.0085
+    },
+    {
+        "motion_energy": 0.1468999981880188,
+        "brightness_shift": 0.034
+    },
+    {
+        "motion_energy": 0.1412999927997589,
+        "brightness_shift": 0.0377
+    },
+    {
+        "motion_energy": 0.1656000018119812,
+        "brightness_shift": 0.0395
+    },
+    {
+        "motion_energy": 0.1177000030875206,
+        "brightness_shift": 0.0232
+    },
+    {
+        "motion_energy": 0.16920000314712524,
+        "brightness_shift": 0.0763
+    },
+    {
+        "motion_energy": 0.1843000054359436,
+        "brightness_shift": 0.0113
+    },
+    {
+        "motion_energy": 0.2084999978542328,
+        "brightness_shift": 0.0579
+    },
+    {
+        "motion_energy": 0.09380000084638596,
+        "brightness_shift": 0.0097
+    },
+    {
+        "motion_energy": 0.16130000352859497,
+        "brightness_shift": 0.0216
+    },
+    {
+        "motion_energy": 0.11100000143051147,
+        "brightness_shift": 0.0174
+    },
+    {
+        "motion_energy": 0.21529999375343323,
+        "brightness_shift": 0.0696
+    },
+    {
+        "motion_energy": 0.10369999706745148,
+        "brightness_shift": 0.0091
+    },
+    {
+        "motion_energy": 0.19130000472068787,
+        "brightness_shift": 0.0615
+    },
+    {
+        "motion_energy": 0.10300000011920929,
+        "brightness_shift": 0.015
+    },
+    {
+        "motion_energy": 0.18320000171661377,
+        "brightness_shift": 0.0428
+    },
+    {
+        "motion_energy": 0.10790000110864639,
+        "brightness_shift": 0.0034
+    },
+    {
+        "motion_energy": 0.1770000010728836,
+        "brightness_shift": 0.0331
+    },
+    {
+        "motion_energy": 0.1899999976158142,
+        "brightness_shift": 0.0505
+    },
+    {
+        "motion_energy": 0.12449999898672104,
+        "brightness_shift": 0.029
+    },
+    {
+        "motion_energy": 0.13169999420642853,
+        "brightness_shift": 0.0438
+    },
+    {
+        "motion_energy": 0.2053000032901764,
+        "brightness_shift": 0.0553
+    },
+    {
+        "motion_energy": 0.11599999666213989,
+        "brightness_shift": 0.032
+    },
+    {
+        "motion_energy": 0.15479999780654907,
+        "brightness_shift": 0.0058
+    },
+    {
+        "motion_energy": 11.700499534606934,
+        "brightness_shift": 76.5983
+    },
+    {
+        "motion_energy": 1.2239999771118164,
+        "brightness_shift": 0.0002
+    },
+    {
+        "motion_energy": 1.2373000383377075,
+        "brightness_shift": 0.2443
+    },
+    {
+        "motion_energy": 1.2411999702453613,
+        "brightness_shift": 0.0145
+    },
+    {
+        "motion_energy": 1.2518999576568604,
+        "brightness_shift": 0.2324
+    },
+    {
+        "motion_energy": 1.2444000244140625,
+        "brightness_shift": 0.0338
+    },
+    {
+        "motion_energy": 1.2705999612808228,
+        "brightness_shift": 0.2776
+    },
+    {
+        "motion_energy": 1.2858999967575073,
+        "brightness_shift": 0.0475
+    },
+    {
+        "motion_energy": 1.3280999660491943,
+        "brightness_shift": 0.1552
+    },
+    {
+        "motion_energy": 1.243299961090088,
+        "brightness_shift": 0.0722
+    },
+    {
+        "motion_energy": 1.2003999948501587,
+        "brightness_shift": 0.3328
+    },
+    {
+        "motion_energy": 1.1892999410629272,
+        "brightness_shift": 0.1346
+    },
+    {
+        "motion_energy": 1.2020000219345093,
+        "brightness_shift": 0.3798
+    },
+    {
+        "motion_energy": 1.1764999628067017,
+        "brightness_shift": 0.1579
+    },
+    {
+        "motion_energy": 1.193600058555603,
+        "brightness_shift": 0.4078
+    },
+    {
+        "motion_energy": 1.2408000230789185,
+        "brightness_shift": 0.6014
+    },
+    {
+        "motion_energy": 1.163599967956543,
+        "brightness_shift": 0.2804
+    },
+    {
+        "motion_energy": 1.141800045967102,
+        "brightness_shift": 0.394
+    },
+    {
+        "motion_energy": 1.1259000301361084,
+        "brightness_shift": 0.395
+    },
+    {
+        "motion_energy": 1.079800009727478,
+        "brightness_shift": 0.3634
+    },
+    {
+        "motion_energy": 1.0285999774932861,
+        "brightness_shift": 0.2966
+    },
+    {
+        "motion_energy": 1.0153000354766846,
+        "brightness_shift": 0.4242
+    },
+    {
+        "motion_energy": 1.0038000345230103,
+        "brightness_shift": 0.242
+    },
+    {
+        "motion_energy": 0.9835000038146973,
+        "brightness_shift": 0.245
+    },
+    {
+        "motion_energy": 0.91839998960495,
+        "brightness_shift": 0.0825
+    },
+    {
+        "motion_energy": 0.902999997138977,
+        "brightness_shift": 0.1872
+    },
+    {
+        "motion_energy": 0.8650000095367432,
+        "brightness_shift": 0.2328
+    },
+    {
+        "motion_energy": 0.8575999736785889,
+        "brightness_shift": 0.1998
+    },
+    {
+        "motion_energy": 0.8159000277519226,
+        "brightness_shift": 0.2042
+    },
+    {
+        "motion_energy": 0.8292999863624573,
+        "brightness_shift": 0.2534
+    },
+    {
+        "motion_energy": 0.8208000063896179,
+        "brightness_shift": 0.1249
+    },
+    {
+        "motion_energy": 0.8501999974250793,
+        "brightness_shift": 0.108
+    },
+    {
+        "motion_energy": 0.796500027179718,
+        "brightness_shift": 0.1008
+    },
+    {
+        "motion_energy": 0.7843999862670898,
+        "brightness_shift": 0.0995
+    },
+    {
+        "motion_energy": 0.765500009059906,
+        "brightness_shift": 0.207
+    },
+    {
+        "motion_energy": 0.7462000250816345,
+        "brightness_shift": 0.0726
+    },
+    {
+        "motion_energy": 0.7031999826431274,
+        "brightness_shift": 0.0226
+    },
+    {
+        "motion_energy": 0.7089999914169312,
+        "brightness_shift": 0.0845
+    },
+    {
+        "motion_energy": 0.6815000176429749,
+        "brightness_shift": 0.0771
+    },
+    {
+        "motion_energy": 0.6819000244140625,
+        "brightness_shift": 0.0404
+    },
+    {
+        "motion_energy": 0.6471999883651733,
+        "brightness_shift": 0.0222
+    },
+    {
+        "motion_energy": 0.6438999772071838,
+        "brightness_shift": 0.0583
+    },
+    {
+        "motion_energy": 0.6000000238418579,
+        "brightness_shift": 0.0852
+    },
+    {
+        "motion_energy": 0.5873000025749207,
+        "brightness_shift": 0.0031
+    },
+    {
+        "motion_energy": 0.6315000057220459,
+        "brightness_shift": 0.111
+    },
+    {
+        "motion_energy": 0.5927000045776367,
+        "brightness_shift": 0.0164
+    },
+    {
+        "motion_energy": 0.5645999908447266,
+        "brightness_shift": 0.0772
+    },
+    {
+        "motion_energy": 0.571399986743927,
+        "brightness_shift": 0.132
+    },
+    {
+        "motion_energy": 0.5163000226020813,
+        "brightness_shift": 0.0012
+    },
+    {
+        "motion_energy": 0.47760000824928284,
+        "brightness_shift": 0.0238
+    },
+    {
+        "motion_energy": 0.4970000088214874,
+        "brightness_shift": 0.0392
+    },
+    {
+        "motion_energy": 0.46939998865127563,
+        "brightness_shift": 0.1468
+    },
+    {
+        "motion_energy": 0.4869000017642975,
+        "brightness_shift": 0.0565
+    },
+    {
+        "motion_energy": 0.4487999975681305,
+        "brightness_shift": 0.2262
+    },
+    {
+        "motion_energy": 0.44620001316070557,
+        "brightness_shift": 0.3242
+    },
+    {
+        "motion_energy": 0.4381999969482422,
+        "brightness_shift": 0.2907
+    },
+    {
+        "motion_energy": 0.43220001459121704,
+        "brightness_shift": 0.38
+    },
+    {
+        "motion_energy": 0.4269999861717224,
+        "brightness_shift": 0.5522
+    },
+    {
+        "motion_energy": 0.5067999958992004,
+        "brightness_shift": 0.5534
+    },
+    {
+        "motion_energy": 0.4823000133037567,
+        "brightness_shift": 0.641
+    },
+    {
+        "motion_energy": 0.43720000982284546,
+        "brightness_shift": 0.9018
+    },
+    {
+        "motion_energy": 0.46619999408721924,
+        "brightness_shift": 0.8624
+    },
+    {
+        "motion_energy": 0.43149998784065247,
+        "brightness_shift": 1.0215
+    },
+    {
+        "motion_energy": 0.42170000076293945,
+        "brightness_shift": 1.0819
+    },
+    {
+        "motion_energy": 0.43639999628067017,
+        "brightness_shift": 1.362
+    },
+    {
+        "motion_energy": 0.4316999912261963,
+        "brightness_shift": 1.4892
+    },
+    {
+        "motion_energy": 0.39320001006126404,
+        "brightness_shift": 1.5196
+    },
+    {
+        "motion_energy": 0.4634999930858612,
+        "brightness_shift": 1.5184
+    },
+    {
+        "motion_energy": 0.40790000557899475,
+        "brightness_shift": 1.7231
+    },
+    {
+        "motion_energy": 0.39070001244544983,
+        "brightness_shift": 1.7986
+    },
+    {
+        "motion_energy": 0.3357999920845032,
+        "brightness_shift": 1.7212
+    },
+    {
+        "motion_energy": 0.3833000063896179,
+        "brightness_shift": 1.9398
+    },
+    {
+        "motion_energy": 0.3968999981880188,
+        "brightness_shift": 1.904
+    },
+    {
+        "motion_energy": 0.39730000495910645,
+        "brightness_shift": 1.8478
+    },
+    {
+        "motion_energy": 0.37869998812675476,
+        "brightness_shift": 2.0273
+    },
+    {
+        "motion_energy": 0.33149999380111694,
+        "brightness_shift": 1.8378
+    },
+    {
+        "motion_energy": 0.33559998869895935,
+        "brightness_shift": 1.8755
+    },
+    {
+        "motion_energy": 6.811100006103516,
+        "brightness_shift": 25.2078
+    },
+    {
+        "motion_energy": 0.06030000001192093,
+        "brightness_shift": 0.0172
+    },
+    {
+        "motion_energy": 0.08070000261068344,
+        "brightness_shift": 0.0558
+    },
+    {
+        "motion_energy": 0.13339999318122864,
+        "brightness_shift": 0.0429
+    },
+    {
+        "motion_energy": 0.08190000057220459,
+        "brightness_shift": 0.0264
+    },
+    {
+        "motion_energy": 0.10119999945163727,
+        "brightness_shift": 0.0084
+    },
+    {
+        "motion_energy": 0.1006999984383583,
+        "brightness_shift": 0.0171
+    },
+    {
+        "motion_energy": 0.15960000455379486,
+        "brightness_shift": 0.0656
+    },
+    {
+        "motion_energy": 0.08349999785423279,
+        "brightness_shift": 0.0005
+    },
+    {
+        "motion_energy": 0.12439999729394913,
+        "brightness_shift": 0.0465
+    },
+    {
+        "motion_energy": 0.09359999746084213,
+        "brightness_shift": 0.0266
+    },
+    {
+        "motion_energy": 0.1251000016927719,
+        "brightness_shift": 0.0436
+    },
+    {
+        "motion_energy": 0.06830000132322311,
+        "brightness_shift": 0.0238
+    },
+    {
+        "motion_energy": 0.10660000145435333,
+        "brightness_shift": 0.0104
+    },
+    {
+        "motion_energy": 0.13729999959468842,
+        "brightness_shift": 0.013
+    },
+    {
+        "motion_energy": 0.10400000214576721,
+        "brightness_shift": 0.0104
+    },
+    {
+        "motion_energy": 0.10970000177621841,
+        "brightness_shift": 0.0269
+    },
+    {
+        "motion_energy": 0.188400000333786,
+        "brightness_shift": 0.0193
+    },
+    {
+        "motion_energy": 0.06499999761581421,
+        "brightness_shift": 0.0081
+    },
+    {
+        "motion_energy": 0.06859999895095825,
+        "brightness_shift": 0.0221
+    },
+    {
+        "motion_energy": 0.08250000327825546,
+        "brightness_shift": 0.0292
+    },
+    {
+        "motion_energy": 0.1023000031709671,
+        "brightness_shift": 0.0035
+    },
+    {
+        "motion_energy": 0.15919999778270721,
+        "brightness_shift": 0.098
+    },
+    {
+        "motion_energy": 0.1485999971628189,
+        "brightness_shift": 0.0313
+    },
+    {
+        "motion_energy": 0.13910000026226044,
+        "brightness_shift": 0.0306
+    },
+    {
+        "motion_energy": 0.10040000081062317,
+        "brightness_shift": 0.0365
+    },
+    {
+        "motion_energy": 0.1451999992132187,
+        "brightness_shift": 0.099
+    },
+    {
+        "motion_energy": 0.0982000008225441,
+        "brightness_shift": 0.0211
+    },
+    {
+        "motion_energy": 0.0868000015616417,
+        "brightness_shift": 0.0377
+    },
+    {
+        "motion_energy": 0.14020000398159027,
+        "brightness_shift": 0.0216
+    },
+    {
+        "motion_energy": 0.10570000112056732,
+        "brightness_shift": 0.0087
+    },
+    {
+        "motion_energy": 0.09529999643564224,
+        "brightness_shift": 0.0331
+    },
+    {
+        "motion_energy": 0.11940000206232071,
+        "brightness_shift": 0.0488
+    },
+    {
+        "motion_energy": 0.08389999717473984,
+        "brightness_shift": 0.0042
+    },
+    {
+        "motion_energy": 0.08250000327825546,
+        "brightness_shift": 0.0428
+    },
+    {
+        "motion_energy": 0.2011999934911728,
+        "brightness_shift": 0.1195
+    },
+    {
+        "motion_energy": 0.10849999636411667,
+        "brightness_shift": 0.0075
+    },
+    {
+        "motion_energy": 0.09749999642372131,
+        "brightness_shift": 0.0093
+    },
+    {
+        "motion_energy": 0.09489999711513519,
+        "brightness_shift": 0.0366
+    },
+    {
+        "motion_energy": 0.15199999511241913,
+        "brightness_shift": 0.0102
+    },
+    {
+        "motion_energy": 0.09279999881982803,
+        "brightness_shift": 0.017
+    },
+    {
+        "motion_energy": 0.10660000145435333,
+        "brightness_shift": 0.0375
+    },
+    {
+        "motion_energy": 0.17550000548362732,
+        "brightness_shift": 0.0604
+    },
+    {
+        "motion_energy": 0.1370999962091446,
+        "brightness_shift": 0.1192
+    },
+    {
+        "motion_energy": 0.0868000015616417,
+        "brightness_shift": 0.0122
+    },
+    {
+        "motion_energy": 0.12809999287128448,
+        "brightness_shift": 0.0436
+    },
+    {
+        "motion_energy": 0.17149999737739563,
+        "brightness_shift": 0.0688
+    },
+    {
+        "motion_energy": 0.09189999848604202,
+        "brightness_shift": 0.0233
+    },
+    {
+        "motion_energy": 0.12610000371932983,
+        "brightness_shift": 0.0174
+    },
+    {
+        "motion_energy": 0.2167000025510788,
+        "brightness_shift": 0.0391
+    },
+    {
+        "motion_energy": 0.12780000269412994,
+        "brightness_shift": 0.019
+    },
+    {
+        "motion_energy": 0.05649999901652336,
+        "brightness_shift": 0.0366
+    },
+    {
+        "motion_energy": 0.046799998730421066,
+        "brightness_shift": 0.006
+    },
+    {
+        "motion_energy": 0.09629999846220016,
+        "brightness_shift": 0.0002
+    },
+    {
+        "motion_energy": 0.22509999573230743,
+        "brightness_shift": 0.0106
+    },
+    {
+        "motion_energy": 0.1623000055551529,
+        "brightness_shift": 0.0471
+    },
+    {
+        "motion_energy": 0.06650000065565109,
+        "brightness_shift": 0.0074
+    },
+    {
+        "motion_energy": 0.05779999867081642,
+        "brightness_shift": 0.045
+    },
+    {
+        "motion_energy": 0.12070000171661377,
+        "brightness_shift": 0.0678
+    },
+    {
+        "motion_energy": 0.1080000028014183,
+        "brightness_shift": 0.0412
+    },
+    {
+        "motion_energy": 0.1234000027179718,
+        "brightness_shift": 0.0059
+    },
+    {
+        "motion_energy": 0.08250000327825546,
+        "brightness_shift": 0.0169
+    },
+    {
+        "motion_energy": 0.11580000072717667,
+        "brightness_shift": 0.0319
+    },
+    {
+        "motion_energy": 0.18279999494552612,
+        "brightness_shift": 0.0022
+    },
+    {
+        "motion_energy": 0.0771000012755394,
+        "brightness_shift": 0.0064
+    },
+    {
+        "motion_energy": 0.07190000265836716,
+        "brightness_shift": 0.0085
+    },
+    {
+        "motion_energy": 0.16820000112056732,
+        "brightness_shift": 0.0804
+    },
+    {
+        "motion_energy": 0.2092999964952469,
+        "brightness_shift": 0.0959
+    },
+    {
+        "motion_energy": 0.1809999942779541,
+        "brightness_shift": 0.0723
+    },
+    {
+        "motion_energy": 0.04899999871850014,
+        "brightness_shift": 0.0412
+    },
+    {
+        "motion_energy": 0.066600002348423,
+        "brightness_shift": 0.0022
+    },
+    {
+        "motion_energy": 0.15240000188350677,
+        "brightness_shift": 0.008
+    },
+    {
+        "motion_energy": 9.872099876403809,
+        "brightness_shift": 14.7692
+    },
+    {
+        "motion_energy": 0.3244999945163727,
+        "brightness_shift": 0.0616
+    },
+    {
+        "motion_energy": 0.39100000262260437,
+        "brightness_shift": 0.0493
+    },
+    {
+        "motion_energy": 0.36880001425743103,
+        "brightness_shift": 0.0256
+    },
+    {
+        "motion_energy": 0.27070000767707825,
+        "brightness_shift": 0.0311
+    },
+    {
+        "motion_energy": 0.36399999260902405,
+        "brightness_shift": 0.0295
+    },
+    {
+        "motion_energy": 0.41449999809265137,
+        "brightness_shift": 0.0813
+    },
+    {
+        "motion_energy": 0.29660001397132874,
+        "brightness_shift": 0.0403
+    },
+    {
+        "motion_energy": 0.2856999933719635,
+        "brightness_shift": 0.0241
+    },
+    {
+        "motion_energy": 0.34700000286102295,
+        "brightness_shift": 0.0204
+    },
+    {
+        "motion_energy": 0.33090001344680786,
+        "brightness_shift": 0.0813
+    },
+    {
+        "motion_energy": 0.3693000078201294,
+        "brightness_shift": 0.1642
+    },
+    {
+        "motion_energy": 0.4713999927043915,
+        "brightness_shift": 0.0495
+    },
+    {
+        "motion_energy": 0.5236999988555908,
+        "brightness_shift": 0.1074
+    },
+    {
+        "motion_energy": 0.4153999984264374,
+        "brightness_shift": 0.0154
+    },
+    {
+        "motion_energy": 0.39259999990463257,
+        "brightness_shift": 0.1702
+    },
+    {
+        "motion_energy": 0.35350000858306885,
+        "brightness_shift": 0.1534
+    },
+    {
+        "motion_energy": 0.44920000433921814,
+        "brightness_shift": 0.3175
+    },
+    {
+        "motion_energy": 0.4361000061035156,
+        "brightness_shift": 0.3404
+    },
+    {
+        "motion_energy": 0.3806000053882599,
+        "brightness_shift": 0.0796
+    },
+    {
+        "motion_energy": 0.5370000004768372,
+        "brightness_shift": 0.0587
+    },
+    {
+        "motion_energy": 0.40849998593330383,
+        "brightness_shift": 0.1263
+    },
+    {
+        "motion_energy": 0.3431999981403351,
+        "brightness_shift": 0.0368
+    },
+    {
+        "motion_energy": 0.40139999985694885,
+        "brightness_shift": 0.0492
+    },
+    {
+        "motion_energy": 0.37279999256134033,
+        "brightness_shift": 0.0025
+    },
+    {
+        "motion_energy": 0.30730000138282776,
+        "brightness_shift": 0.0022
+    },
+    {
+        "motion_energy": 0.45080000162124634,
+        "brightness_shift": 0.082
+    },
+    {
+        "motion_energy": 0.40639999508857727,
+        "brightness_shift": 0.1508
+    },
+    {
+        "motion_energy": 0.3010999858379364,
+        "brightness_shift": 0.2541
+    },
+    {
+        "motion_energy": 0.3901999890804291,
+        "brightness_shift": 0.1373
+    },
+    {
+        "motion_energy": 0.44929999113082886,
+        "brightness_shift": 0.0372
+    },
+    {
+        "motion_energy": 0.4341000020503998,
+        "brightness_shift": 0.0783
+    },
+    {
+        "motion_energy": 0.3968999981880188,
+        "brightness_shift": 0.0709
+    },
+    {
+        "motion_energy": 0.527400016784668,
+        "brightness_shift": 0.1836
+    },
+    {
+        "motion_energy": 0.421999990940094,
+        "brightness_shift": 0.0652
+    },
+    {
+        "motion_energy": 0.3774000108242035,
+        "brightness_shift": 0.1834
+    },
+    {
+        "motion_energy": 0.4163999855518341,
+        "brightness_shift": 0.2839
+    },
+    {
+        "motion_energy": 0.5182999968528748,
+        "brightness_shift": 0.215
+    },
+    {
+        "motion_energy": 0.49239999055862427,
+        "brightness_shift": 0.2016
+    },
+    {
+        "motion_energy": 0.40139999985694885,
+        "brightness_shift": 0.1645
+    },
+    {
+        "motion_energy": 0.5659999847412109,
+        "brightness_shift": 0.0867
+    },
+    {
+        "motion_energy": 0.34769999980926514,
+        "brightness_shift": 0.0134
+    },
+    {
+        "motion_energy": 0.3179999887943268,
+        "brightness_shift": 0.0345
+    },
+    {
+        "motion_energy": 0.4602999985218048,
+        "brightness_shift": 0.396
+    },
+    {
+        "motion_energy": 0.41679999232292175,
+        "brightness_shift": 0.2602
+    },
+    {
+        "motion_energy": 0.3240000009536743,
+        "brightness_shift": 0.0331
+    },
+    {
+        "motion_energy": 0.31700000166893005,
+        "brightness_shift": 0.0187
+    },
+    {
+        "motion_energy": 0.36820000410079956,
+        "brightness_shift": 0.036
+    },
+    {
+        "motion_energy": 0.5199999809265137,
+        "brightness_shift": 0.0709
+    },
+    {
+        "motion_energy": 0.4803999960422516,
+        "brightness_shift": 0.1265
+    },
+    {
+        "motion_energy": 0.4065000116825104,
+        "brightness_shift": 0.0795
+    },
+    {
+        "motion_energy": 0.40959998965263367,
+        "brightness_shift": 0.1405
+    },
+    {
+        "motion_energy": 0.492000013589859,
+        "brightness_shift": 0.208
+    },
+    {
+        "motion_energy": 0.5217999815940857,
+        "brightness_shift": 0.0125
+    },
+    {
+        "motion_energy": 0.3447999954223633,
+        "brightness_shift": 0.1071
+    },
+    {
+        "motion_energy": 0.44209998846054077,
+        "brightness_shift": 0.1882
+    },
+    {
+        "motion_energy": 0.46129998564720154,
+        "brightness_shift": 0.3299
+    },
+    {
+        "motion_energy": 0.5277000069618225,
+        "brightness_shift": 0.3544
+    },
+    {
+        "motion_energy": 0.47279998660087585,
+        "brightness_shift": 0.066
+    },
+    {
+        "motion_energy": 0.3418999910354614,
+        "brightness_shift": 0.1007
+    },
+    {
+        "motion_energy": 0.3239000141620636,
+        "brightness_shift": 0.0797
+    },
+    {
+        "motion_energy": 0.3158999979496002,
+        "brightness_shift": 0.0872
+    },
+    {
+        "motion_energy": 0.3003000020980835,
+        "brightness_shift": 0.1199
+    },
+    {
+        "motion_energy": 0.3476000130176544,
+        "brightness_shift": 0.1161
+    },
+    {
+        "motion_energy": 0.3693999946117401,
+        "brightness_shift": 0.2083
+    },
+    {
+        "motion_energy": 0.28700000047683716,
+        "brightness_shift": 0.0624
+    },
+    {
+        "motion_energy": 0.3449000120162964,
+        "brightness_shift": 0.0802
+    },
+    {
+        "motion_energy": 0.5411999821662903,
+        "brightness_shift": 0.2706
+    },
+    {
+        "motion_energy": 0.3472000062465668,
+        "brightness_shift": 0.1463
+    },
+    {
+        "motion_energy": 0.4032999873161316,
+        "brightness_shift": 0.1064
+    },
+    {
+        "motion_energy": 0.3702000081539154,
+        "brightness_shift": 0.0751
+    },
+    {
+        "motion_energy": 0.40450000762939453,
+        "brightness_shift": 0.0062
+    },
+    {
+        "motion_energy": 0.6252999901771545,
+        "brightness_shift": 0.0175
+    },
+    {
+        "motion_energy": 0.4779999852180481,
+        "brightness_shift": 0.1136
+    },
+    {
+        "motion_energy": 0.40799999237060547,
+        "brightness_shift": 0.2133
+    },
+    {
+        "motion_energy": 0.4431999921798706,
+        "brightness_shift": 0.1089
+    },
+    {
+        "motion_energy": 0.5425000190734863,
+        "brightness_shift": 0.1638
+    },
+    {
+        "motion_energy": 9.605299949645996,
+        "brightness_shift": 14.0939
+    },
+    {
+        "motion_energy": 0.36079999804496765,
+        "brightness_shift": 0.1465
+    },
+    {
+        "motion_energy": 0.3880000114440918,
+        "brightness_shift": 0.1008
+    },
+    {
+        "motion_energy": 0.3549000024795532,
+        "brightness_shift": 0.083
+    },
+    {
+        "motion_energy": 0.37880000472068787,
+        "brightness_shift": 0.0613
+    },
+    {
+        "motion_energy": 0.39500001072883606,
+        "brightness_shift": 0.0508
+    },
+    {
+        "motion_energy": 0.3474999964237213,
+        "brightness_shift": 0.0292
+    },
+    {
+        "motion_energy": 0.328900009393692,
+        "brightness_shift": 0.0026
+    },
+    {
+        "motion_energy": 0.35089999437332153,
+        "brightness_shift": 0.0502
+    },
+    {
+        "motion_energy": 0.41449999809265137,
+        "brightness_shift": 0.0378
+    },
+    {
+        "motion_energy": 0.38440001010894775,
+        "brightness_shift": 0.0856
+    },
+    {
+        "motion_energy": 0.38280001282691956,
+        "brightness_shift": 0.0732
+    },
+    {
+        "motion_energy": 0.36500000953674316,
+        "brightness_shift": 0.0768
+    },
+    {
+        "motion_energy": 0.3702999949455261,
+        "brightness_shift": 0.1045
+    },
+    {
+        "motion_energy": 0.39750000834465027,
+        "brightness_shift": 0.0906
+    },
+    {
+        "motion_energy": 0.3407999873161316,
+        "brightness_shift": 0.0115
+    },
+    {
+        "motion_energy": 0.3779999911785126,
+        "brightness_shift": 0.0116
+    },
+    {
+        "motion_energy": 0.38339999318122864,
+        "brightness_shift": 0.015
+    },
+    {
+        "motion_energy": 0.39660000801086426,
+        "brightness_shift": 0.0744
+    },
+    {
+        "motion_energy": 0.36059999465942383,
+        "brightness_shift": 0.0259
+    },
+    {
+        "motion_energy": 0.3758000135421753,
+        "brightness_shift": 0.0373
+    },
+    {
+        "motion_energy": 0.37950000166893005,
+        "brightness_shift": 0.0151
+    },
+    {
+        "motion_energy": 0.3732999861240387,
+        "brightness_shift": 0.0883
+    },
+    {
+        "motion_energy": 0.36160001158714294,
+        "brightness_shift": 0.0375
+    },
+    {
+        "motion_energy": 0.3779999911785126,
+        "brightness_shift": 0.1347
+    },
+    {
+        "motion_energy": 0.3862999975681305,
+        "brightness_shift": 0.043
+    },
+    {
+        "motion_energy": 0.3903000056743622,
+        "brightness_shift": 0.0206
+    },
+    {
+        "motion_energy": 0.3785000145435333,
+        "brightness_shift": 0.1003
+    },
+    {
+        "motion_energy": 0.3758000135421753,
+        "brightness_shift": 0.0523
+    },
+    {
+        "motion_energy": 0.3926999866962433,
+        "brightness_shift": 0.0674
+    },
+    {
+        "motion_energy": 0.39100000262260437,
+        "brightness_shift": 0.0685
+    },
+    {
+        "motion_energy": 0.3750999867916107,
+        "brightness_shift": 0.078
+    },
+    {
+        "motion_energy": 0.36579999327659607,
+        "brightness_shift": 0.0259
+    },
+    {
+        "motion_energy": 0.3984000086784363,
+        "brightness_shift": 0.1091
+    },
+    {
+        "motion_energy": 0.3799999952316284,
+        "brightness_shift": 0.0974
+    },
+    {
+        "motion_energy": 12.476499557495117,
+        "brightness_shift": 0.596
+    },
+    {
+        "motion_energy": 0.21660000085830688,
+        "brightness_shift": 0.079
+    },
+    {
+        "motion_energy": 0.2888000011444092,
+        "brightness_shift": 0.0109
+    },
+    {
+        "motion_energy": 0.22750000655651093,
+        "brightness_shift": 0.0011
+    },
+    {
+        "motion_energy": 0.2451000064611435,
+        "brightness_shift": 0.0094
+    },
+    {
+        "motion_energy": 0.25270000100135803,
+        "brightness_shift": 0.0568
+    },
+    {
+        "motion_energy": 0.2378000020980835,
+        "brightness_shift": 0.0226
+    },
+    {
+        "motion_energy": 0.23690000176429749,
+        "brightness_shift": 0.0359
+    },
+    {
+        "motion_energy": 0.24609999358654022,
+        "brightness_shift": 0.0411
+    },
+    {
+        "motion_energy": 0.2513999938964844,
+        "brightness_shift": 0.0358
+    },
+    {
+        "motion_energy": 0.2784999907016754,
+        "brightness_shift": 0.0428
+    },
+    {
+        "motion_energy": 0.23639999330043793,
+        "brightness_shift": 0.0272
+    },
+    {
+        "motion_energy": 0.2531000077724457,
+        "brightness_shift": 0.0257
+    },
+    {
+        "motion_energy": 0.23440000414848328,
+        "brightness_shift": 0.0592
+    },
+    {
+        "motion_energy": 0.259799987077713,
+        "brightness_shift": 0.026
+    },
+    {
+        "motion_energy": 0.2370000034570694,
+        "brightness_shift": 0.0242
+    },
+    {
+        "motion_energy": 0.2700999975204468,
+        "brightness_shift": 0.019
+    },
+    {
+        "motion_energy": 0.2639000117778778,
+        "brightness_shift": 0.0194
+    },
+    {
+        "motion_energy": 0.2752000093460083,
+        "brightness_shift": 0.0955
+    },
+    {
+        "motion_energy": 0.24199999868869781,
+        "brightness_shift": 0.0155
+    },
+    {
+        "motion_energy": 0.26750001311302185,
+        "brightness_shift": 0.0339
+    },
+    {
+        "motion_energy": 0.24650000035762787,
+        "brightness_shift": 0.1885
+    },
+    {
+        "motion_energy": 0.2702000141143799,
+        "brightness_shift": 0.0093
+    },
+    {
+        "motion_energy": 0.24660000205039978,
+        "brightness_shift": 0.0759
+    },
+    {
+        "motion_energy": 0.26159998774528503,
+        "brightness_shift": 0.0066
+    },
+    {
+        "motion_energy": 0.26420000195503235,
+        "brightness_shift": 0.0193
+    },
+    {
+        "motion_energy": 0.28220000863075256,
+        "brightness_shift": 0.0912
+    },
+    {
+        "motion_energy": 0.25589999556541443,
+        "brightness_shift": 0.0695
+    },
+    {
+        "motion_energy": 0.2784000039100647,
+        "brightness_shift": 0.0325
+    },
+    {
+        "motion_energy": 0.2632000148296356,
+        "brightness_shift": 0.0808
+    },
+    {
+        "motion_energy": 0.287200003862381,
+        "brightness_shift": 0.1494
+    },
+    {
+        "motion_energy": 0.24969999492168427,
+        "brightness_shift": 0.0226
+    },
+    {
+        "motion_energy": 0.2773999869823456,
+        "brightness_shift": 0.0024
+    },
+    {
+        "motion_energy": 0.2921000123023987,
+        "brightness_shift": 0.0667
+    },
+    {
+        "motion_energy": 0.2906000018119812,
+        "brightness_shift": 0.0043
+    },
+    {
+        "motion_energy": 0.2712000012397766,
+        "brightness_shift": 0.0124
+    },
+    {
+        "motion_energy": 0.30169999599456787,
+        "brightness_shift": 0.016
+    },
+    {
+        "motion_energy": 7.85860013961792,
+        "brightness_shift": 17.186
+    },
+    {
+        "motion_energy": 0.3068999946117401,
+        "brightness_shift": 0.0978
+    },
+    {
+        "motion_energy": 0.39640000462532043,
+        "brightness_shift": 0.3094
+    },
+    {
+        "motion_energy": 0.3181000053882599,
+        "brightness_shift": 0.2085
+    },
+    {
+        "motion_energy": 0.2897999882698059,
+        "brightness_shift": 0.1167
+    },
+    {
+        "motion_energy": 0.2660999894142151,
+        "brightness_shift": 0.0667
+    },
+    {
+        "motion_energy": 0.2606000006198883,
+        "brightness_shift": 0.0558
+    },
+    {
+        "motion_energy": 0.2736999988555908,
+        "brightness_shift": 0.0085
+    },
+    {
+        "motion_energy": 0.303600013256073,
+        "brightness_shift": 0.1264
+    },
+    {
+        "motion_energy": 0.2797999978065491,
+        "brightness_shift": 0.1437
+    },
+    {
+        "motion_energy": 0.2955000102519989,
+        "brightness_shift": 0.0526
+    },
+    {
+        "motion_energy": 0.3174000084400177,
+        "brightness_shift": 0.0368
+    },
+    {
+        "motion_energy": 0.2921999990940094,
+        "brightness_shift": 0.0063
+    },
+    {
+        "motion_energy": 0.24629999697208405,
+        "brightness_shift": 0.0302
+    },
+    {
+        "motion_energy": 0.25290000438690186,
+        "brightness_shift": 0.0467
+    },
+    {
+        "motion_energy": 0.2775999903678894,
+        "brightness_shift": 0.1091
+    },
+    {
+        "motion_energy": 0.31700000166893005,
+        "brightness_shift": 0.0459
+    },
+    {
+        "motion_energy": 0.26579999923706055,
+        "brightness_shift": 0.0448
+    },
+    {
+        "motion_energy": 0.3411000072956085,
+        "brightness_shift": 0.2647
+    },
+    {
+        "motion_energy": 0.3158000111579895,
+        "brightness_shift": 0.1928
+    },
+    {
+        "motion_energy": 0.2743000090122223,
+        "brightness_shift": 0.0607
+    },
+    {
+        "motion_energy": 0.2694000005722046,
+        "brightness_shift": 0.1692
+    },
+    {
+        "motion_energy": 0.30309998989105225,
+        "brightness_shift": 0.2679
+    },
+    {
+        "motion_energy": 0.29919999837875366,
+        "brightness_shift": 0.1171
+    },
+    {
+        "motion_energy": 0.2752000093460083,
+        "brightness_shift": 0.0675
+    },
+    {
+        "motion_energy": 0.23890000581741333,
+        "brightness_shift": 0.0617
+    },
+    {
+        "motion_energy": 0.2581999897956848,
+        "brightness_shift": 0.1038
+    },
+    {
+        "motion_energy": 0.24269999563694,
+        "brightness_shift": 0.0274
+    },
+    {
+        "motion_energy": 0.273499995470047,
+        "brightness_shift": 0.0753
+    },
+    {
+        "motion_energy": 0.2624000012874603,
+        "brightness_shift": 0.0498
+    },
+    {
+        "motion_energy": 0.29420000314712524,
+        "brightness_shift": 0.0079
+    },
+    {
+        "motion_energy": 0.2800999879837036,
+        "brightness_shift": 0.059
+    },
+    {
+        "motion_energy": 0.30649998784065247,
+        "brightness_shift": 0.1164
+    },
+    {
+        "motion_energy": 0.298799991607666,
+        "brightness_shift": 0.0012
+    },
+    {
+        "motion_energy": 0.2906999886035919,
+        "brightness_shift": 0.1187
+    },
+    {
+        "motion_energy": 0.24330000579357147,
+        "brightness_shift": 0.0744
+    },
+    {
+        "motion_energy": 0.26420000195503235,
+        "brightness_shift": 0.0647
+    },
+    {
+        "motion_energy": 0.25279998779296875,
+        "brightness_shift": 0.1493
+    },
+    {
+        "motion_energy": 0.27559998631477356,
+        "brightness_shift": 0.0579
+    },
+    {
+        "motion_energy": 0.26179999113082886,
+        "brightness_shift": 0.0502
+    },
+    {
+        "motion_energy": 0.25839999318122864,
+        "brightness_shift": 0.0347
+    },
+    {
+        "motion_energy": 0.2249000072479248,
+        "brightness_shift": 0.0022
+    },
+    {
+        "motion_energy": 0.2651999890804291,
+        "brightness_shift": 0.1111
+    },
+    {
+        "motion_energy": 0.22920000553131104,
+        "brightness_shift": 0.0446
+    },
+    {
+        "motion_energy": 0.2353000044822693,
+        "brightness_shift": 0.0466
+    },
+    {
+        "motion_energy": 0.2053000032901764,
+        "brightness_shift": 0.0075
+    },
+    {
+        "motion_energy": 0.24220000207424164,
+        "brightness_shift": 0.0589
+    },
+    {
+        "motion_energy": 0.22689999639987946,
+        "brightness_shift": 0.0415
+    },
+    {
+        "motion_energy": 0.24300000071525574,
+        "brightness_shift": 0.0534
+    },
+    {
+        "motion_energy": 0.21410000324249268,
+        "brightness_shift": 0.0851
+    },
+    {
+        "motion_energy": 0.2529999911785126,
+        "brightness_shift": 0.0255
+    },
+    {
+        "motion_energy": 0.2689000070095062,
+        "brightness_shift": 0.0717
+    },
+    {
+        "motion_energy": 0.2786000072956085,
+        "brightness_shift": 0.0062
+    },
+    {
+        "motion_energy": 0.2953000068664551,
+        "brightness_shift": 0.0367
+    },
+    {
+        "motion_energy": 0.27489998936653137,
+        "brightness_shift": 0.0007
+    },
+    {
+        "motion_energy": 0.2777999937534332,
+        "brightness_shift": 0.0189
+    },
+    {
+        "motion_energy": 0.33059999346733093,
+        "brightness_shift": 0.1342
+    },
+    {
+        "motion_energy": 0.28139999508857727,
+        "brightness_shift": 0.0107
+    },
+    {
+        "motion_energy": 0.3190000057220459,
+        "brightness_shift": 0.1411
+    },
+    {
+        "motion_energy": 0.3021000027656555,
+        "brightness_shift": 0.0807
+    },
+    {
+        "motion_energy": 0.2847999930381775,
+        "brightness_shift": 0.0133
+    },
+    {
+        "motion_energy": 0.26420000195503235,
+        "brightness_shift": 0.0174
+    },
+    {
+        "motion_energy": 0.31139999628067017,
+        "brightness_shift": 0.043
+    },
+    {
+        "motion_energy": 0.31369999051094055,
+        "brightness_shift": 0.0699
+    },
+    {
+        "motion_energy": 0.3287999927997589,
+        "brightness_shift": 0.0247
+    },
+    {
+        "motion_energy": 0.30469998717308044,
+        "brightness_shift": 0.0088
+    },
+    {
+        "motion_energy": 0.2856999933719635,
+        "brightness_shift": 0.0795
+    },
+    {
+        "motion_energy": 0.31610000133514404,
+        "brightness_shift": 0.0117
+    },
+    {
+        "motion_energy": 0.334199994802475,
+        "brightness_shift": 0.1256
+    },
+    {
+        "motion_energy": 0.2989000082015991,
+        "brightness_shift": 0.0037
+    },
+    {
+        "motion_energy": 0.31679999828338623,
+        "brightness_shift": 0.0345
+    },
+    {
+        "motion_energy": 0.30250000953674316,
+        "brightness_shift": 0.0704
+    },
+    {
+        "motion_energy": 0.27079999446868896,
+        "brightness_shift": 0.0181
+    },
+    {
+        "motion_energy": 0.2556999921798706,
+        "brightness_shift": 0.0776
+    },
+    {
+        "motion_energy": 0.23360000550746918,
+        "brightness_shift": 0.0714
+    },
+    {
+        "motion_energy": 0.24480000138282776,
+        "brightness_shift": 0.0931
+    },
+    {
+        "motion_energy": 0.1914999932050705,
+        "brightness_shift": 0.0098
+    },
+    {
+        "motion_energy": 16.16900062561035,
+        "brightness_shift": 61.2968
+    },
+    {
+        "motion_energy": 0.07209999859333038,
+        "brightness_shift": 0.0569
+    },
+    {
+        "motion_energy": 0.09730000048875809,
+        "brightness_shift": 0.0445
+    },
+    {
+        "motion_energy": 0.09989999979734421,
+        "brightness_shift": 0.0457
+    },
+    {
+        "motion_energy": 0.09629999846220016,
+        "brightness_shift": 0.057
+    },
+    {
+        "motion_energy": 0.09560000151395798,
+        "brightness_shift": 0.0188
+    },
+    {
+        "motion_energy": 0.1005999967455864,
+        "brightness_shift": 0.0154
+    },
+    {
+        "motion_energy": 0.10989999771118164,
+        "brightness_shift": 0.0612
+    },
+    {
+        "motion_energy": 0.09690000116825104,
+        "brightness_shift": 0.0182
+    },
+    {
+        "motion_energy": 0.10769999772310257,
+        "brightness_shift": 0.034
+    },
+    {
+        "motion_energy": 0.10279999673366547,
+        "brightness_shift": 0.0203
+    },
+    {
+        "motion_energy": 0.1160999983549118,
+        "brightness_shift": 0.0016
+    },
+    {
+        "motion_energy": 0.1039000004529953,
+        "brightness_shift": 0.0497
+    },
+    {
+        "motion_energy": 0.10109999775886536,
+        "brightness_shift": 0.016
+    },
+    {
+        "motion_energy": 0.09489999711513519,
+        "brightness_shift": 0.0339
+    },
+    {
+        "motion_energy": 0.11289999634027481,
+        "brightness_shift": 0.0027
+    },
+    {
+        "motion_energy": 0.10459999740123749,
+        "brightness_shift": 0.0075
+    },
+    {
+        "motion_energy": 0.11569999903440475,
+        "brightness_shift": 0.0046
+    },
+    {
+        "motion_energy": 0.11270000040531158,
+        "brightness_shift": 0.0674
+    },
+    {
+        "motion_energy": 0.12309999763965607,
+        "brightness_shift": 0.0206
+    },
+    {
+        "motion_energy": 0.10490000247955322,
+        "brightness_shift": 0.0259
+    },
+    {
+        "motion_energy": 0.1120000034570694,
+        "brightness_shift": 0.1001
+    },
+    {
+        "motion_energy": 0.10999999940395355,
+        "brightness_shift": 0.0775
+    },
+    {
+        "motion_energy": 0.11670000106096268,
+        "brightness_shift": 0.0108
+    },
+    {
+        "motion_energy": 0.10450000315904617,
+        "brightness_shift": 0.0294
+    },
+    {
+        "motion_energy": 0.11259999871253967,
+        "brightness_shift": 0.0247
+    },
+    {
+        "motion_energy": 0.10920000076293945,
+        "brightness_shift": 0.0243
+    },
+    {
+        "motion_energy": 0.12489999830722809,
+        "brightness_shift": 0.0669
+    },
+    {
+        "motion_energy": 0.11620000004768372,
+        "brightness_shift": 0.014
+    },
+    {
+        "motion_energy": 0.11069999635219574,
+        "brightness_shift": 0.044
+    },
+    {
+        "motion_energy": 0.13019999861717224,
+        "brightness_shift": 0.0231
+    },
+    {
+        "motion_energy": 0.1348000019788742,
+        "brightness_shift": 0.0355
+    },
+    {
+        "motion_energy": 0.12809999287128448,
+        "brightness_shift": 0.0203
+    },
+    {
+        "motion_energy": 0.12489999830722809,
+        "brightness_shift": 0.0742
+    },
+    {
+        "motion_energy": 0.14880000054836273,
+        "brightness_shift": 0.0322
+    },
+    {
+        "motion_energy": 0.1404000073671341,
+        "brightness_shift": 0.0081
+    },
+    {
+        "motion_energy": 0.1363999992609024,
+        "brightness_shift": 0.0943
+    },
+    {
+        "motion_energy": 0.12729999423027039,
+        "brightness_shift": 0.0324
+    },
+    {
+        "motion_energy": 0.13910000026226044,
+        "brightness_shift": 0.0518
+    },
+    {
+        "motion_energy": 0.15459999442100525,
+        "brightness_shift": 0.0004
+    },
+    {
+        "motion_energy": 0.13459999859333038,
+        "brightness_shift": 0.0264
+    },
+    {
+        "motion_energy": 0.1388999968767166,
+        "brightness_shift": 0.0084
+    },
+    {
+        "motion_energy": 0.15080000460147858,
+        "brightness_shift": 0.0164
+    },
+    {
+        "motion_energy": 0.14229999482631683,
+        "brightness_shift": 0.0436
+    },
+    {
+        "motion_energy": 0.14249999821186066,
+        "brightness_shift": 0.0255
+    },
+    {
+        "motion_energy": 0.1264999955892563,
+        "brightness_shift": 0.0494
+    },
+    {
+        "motion_energy": 0.12770000100135803,
+        "brightness_shift": 0.0639
+    },
+    {
+        "motion_energy": 0.14900000393390656,
+        "brightness_shift": 0.0204
+    },
+    {
+        "motion_energy": 0.13009999692440033,
+        "brightness_shift": 0.0012
+    },
+    {
+        "motion_energy": 0.1386999934911728,
+        "brightness_shift": 0.0239
+    },
+    {
+        "motion_energy": 0.14350000023841858,
+        "brightness_shift": 0.0359
+    },
+    {
+        "motion_energy": 0.14569999277591705,
+        "brightness_shift": 0.0649
+    },
+    {
+        "motion_energy": 0.12919999659061432,
+        "brightness_shift": 0.0185
+    },
+    {
+        "motion_energy": 0.12219999730587006,
+        "brightness_shift": 0.0053
+    },
+    {
+        "motion_energy": 0.13210000097751617,
+        "brightness_shift": 0.0035
+    },
+    {
+        "motion_energy": 0.149399995803833,
+        "brightness_shift": 0.0709
+    },
+    {
+        "motion_energy": 0.13189999759197235,
+        "brightness_shift": 0.016
+    },
+    {
+        "motion_energy": 0.14810000360012054,
+        "brightness_shift": 0.01
+    },
+    {
+        "motion_energy": 0.14740000665187836,
+        "brightness_shift": 0.058
+    },
+    {
+        "motion_energy": 0.15809999406337738,
+        "brightness_shift": 0.0265
+    },
+    {
+        "motion_energy": 0.1371999979019165,
+        "brightness_shift": 0.011
+    },
+    {
+        "motion_energy": 3.835599899291992,
+        "brightness_shift": 19.8973
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0043
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 15.494799613952637,
+        "brightness_shift": 62.4662
+    },
+    {
+        "motion_energy": 0.003000000026077032,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.2529999911785126,
+        "brightness_shift": 0.1699
+    },
+    {
+        "motion_energy": 0.37790000438690186,
+        "brightness_shift": 0.1711
+    },
+    {
+        "motion_energy": 0.3418000042438507,
+        "brightness_shift": 0.1556
+    },
+    {
+        "motion_energy": 0.39969998598098755,
+        "brightness_shift": 0.1578
+    },
+    {
+        "motion_energy": 0.3801000118255615,
+        "brightness_shift": 0.0393
+    },
+    {
+        "motion_energy": 0.3662000000476837,
+        "brightness_shift": 0.0736
+    },
+    {
+        "motion_energy": 0.3628999888896942,
+        "brightness_shift": 0.0525
+    },
+    {
+        "motion_energy": 0.3400999903678894,
+        "brightness_shift": 0.0561
+    },
+    {
+        "motion_energy": 0.3239000141620636,
+        "brightness_shift": 0.0839
+    },
+    {
+        "motion_energy": 0.3465000092983246,
+        "brightness_shift": 0.1934
+    },
+    {
+        "motion_energy": 0.3799999952316284,
+        "brightness_shift": 0.2254
+    },
+    {
+        "motion_energy": 0.4065999984741211,
+        "brightness_shift": 0.0083
+    },
+    {
+        "motion_energy": 0.41100001335144043,
+        "brightness_shift": 0.1578
+    },
+    {
+        "motion_energy": 0.36010000109672546,
+        "brightness_shift": 0.1674
+    },
+    {
+        "motion_energy": 0.36980000138282776,
+        "brightness_shift": 0.0433
+    },
+    {
+        "motion_energy": 0.35440000891685486,
+        "brightness_shift": 0.0976
+    },
+    {
+        "motion_energy": 0.353300005197525,
+        "brightness_shift": 0.0555
+    },
+    {
+        "motion_energy": 0.3693000078201294,
+        "brightness_shift": 0.008
+    },
+    {
+        "motion_energy": 0.3702000081539154,
+        "brightness_shift": 0.0867
+    },
+    {
+        "motion_energy": 0.3937000036239624,
+        "brightness_shift": 0.1775
+    },
+    {
+        "motion_energy": 0.352400004863739,
+        "brightness_shift": 0.0171
+    },
+    {
+        "motion_energy": 0.35429999232292175,
+        "brightness_shift": 0.2085
+    },
+    {
+        "motion_energy": 0.3691999912261963,
+        "brightness_shift": 0.2003
+    },
+    {
+        "motion_energy": 0.31139999628067017,
+        "brightness_shift": 0.1366
+    },
+    {
+        "motion_energy": 0.32760000228881836,
+        "brightness_shift": 0.0092
+    },
+    {
+        "motion_energy": 0.3149000108242035,
+        "brightness_shift": 0.1094
+    },
+    {
+        "motion_energy": 0.31949999928474426,
+        "brightness_shift": 0.0102
+    },
+    {
+        "motion_energy": 0.3319999873638153,
+        "brightness_shift": 0.1461
+    },
+    {
+        "motion_energy": 0.33719998598098755,
+        "brightness_shift": 0.1642
+    },
+    {
+        "motion_energy": 0.3264999985694885,
+        "brightness_shift": 0.0642
+    },
+    {
+        "motion_energy": 0.35120001435279846,
+        "brightness_shift": 0.1068
+    },
+    {
+        "motion_energy": 0.37689998745918274,
+        "brightness_shift": 0.0262
+    },
+    {
+        "motion_energy": 0.3749000132083893,
+        "brightness_shift": 0.1301
+    },
+    {
+        "motion_energy": 0.3686999976634979,
+        "brightness_shift": 0.0258
+    },
+    {
+        "motion_energy": 0.38530001044273376,
+        "brightness_shift": 0.0864
+    },
+    {
+        "motion_energy": 0.41110000014305115,
+        "brightness_shift": 0.1389
+    },
+    {
+        "motion_energy": 0.427700012922287,
+        "brightness_shift": 0.0051
+    },
+    {
+        "motion_energy": 0.4844000041484833,
+        "brightness_shift": 0.1381
+    },
+    {
+        "motion_energy": 0.4480000138282776,
+        "brightness_shift": 0.088
+    },
+    {
+        "motion_energy": 0.45669999718666077,
+        "brightness_shift": 0.0625
+    },
+    {
+        "motion_energy": 0.4523000121116638,
+        "brightness_shift": 0.0293
+    },
+    {
+        "motion_energy": 0.438400000333786,
+        "brightness_shift": 0.0494
+    },
+    {
+        "motion_energy": 0.4410000145435333,
+        "brightness_shift": 0.097
+    },
+    {
+        "motion_energy": 0.5026000142097473,
+        "brightness_shift": 0.057
+    },
+    {
+        "motion_energy": 0.4221999943256378,
+        "brightness_shift": 0.104
+    },
+    {
+        "motion_energy": 0.4074000120162964,
+        "brightness_shift": 0.0282
+    },
+    {
+        "motion_energy": 0.38350000977516174,
+        "brightness_shift": 0.007
+    },
+    {
+        "motion_energy": 0.3666999936103821,
+        "brightness_shift": 0.1727
+    },
+    {
+        "motion_energy": 13.911499977111816,
+        "brightness_shift": 29.5129
+    },
+    {
+        "motion_energy": 0.13600000739097595,
+        "brightness_shift": 0.0015
+    },
+    {
+        "motion_energy": 0.09480000287294388,
+        "brightness_shift": 0.0087
+    },
+    {
+        "motion_energy": 0.008799999952316284,
+        "brightness_shift": 0.006
+    },
+    {
+        "motion_energy": 0.12330000102519989,
+        "brightness_shift": 0.007
+    },
+    {
+        "motion_energy": 0.1339000016450882,
+        "brightness_shift": 0.003
+    },
+    {
+        "motion_energy": 0.1703999936580658,
+        "brightness_shift": 0.0487
+    },
+    {
+        "motion_energy": 0.08139999955892563,
+        "brightness_shift": 0.0058
+    },
+    {
+        "motion_energy": 0.10809999704360962,
+        "brightness_shift": 0.0298
+    },
+    {
+        "motion_energy": 0.1420000046491623,
+        "brightness_shift": 0.0105
+    },
+    {
+        "motion_energy": 0.0949999988079071,
+        "brightness_shift": 0.0069
+    },
+    {
+        "motion_energy": 0.13899999856948853,
+        "brightness_shift": 0.0252
+    },
+    {
+        "motion_energy": 0.10599999874830246,
+        "brightness_shift": 0.0365
+    },
+    {
+        "motion_energy": 0.1324000060558319,
+        "brightness_shift": 0.0029
+    },
+    {
+        "motion_energy": 0.15449999272823334,
+        "brightness_shift": 0.0058
+    },
+    {
+        "motion_energy": 0.07819999754428864,
+        "brightness_shift": 0.0913
+    },
+    {
+        "motion_energy": 0.11720000207424164,
+        "brightness_shift": 0.0171
+    },
+    {
+        "motion_energy": 0.11550000309944153,
+        "brightness_shift": 0.0522
+    },
+    {
+        "motion_energy": 0.08919999748468399,
+        "brightness_shift": 0.0168
+    },
+    {
+        "motion_energy": 0.13819999992847443,
+        "brightness_shift": 0.0216
+    },
+    {
+        "motion_energy": 0.1152999997138977,
+        "brightness_shift": 0.0507
+    },
+    {
+        "motion_energy": 0.12710000574588776,
+        "brightness_shift": 0.051
+    },
+    {
+        "motion_energy": 0.15929999947547913,
+        "brightness_shift": 0.0042
+    },
+    {
+        "motion_energy": 0.14329999685287476,
+        "brightness_shift": 0.0466
+    },
+    {
+        "motion_energy": 0.12549999356269836,
+        "brightness_shift": 0.0481
+    },
+    {
+        "motion_energy": 0.13490000367164612,
+        "brightness_shift": 0.0067
+    },
+    {
+        "motion_energy": 0.0892999991774559,
+        "brightness_shift": 0.0101
+    },
+    {
+        "motion_energy": 0.1356000006198883,
+        "brightness_shift": 0.0185
+    },
+    {
+        "motion_energy": 0.14159999787807465,
+        "brightness_shift": 0.0332
+    },
+    {
+        "motion_energy": 0.17550000548362732,
+        "brightness_shift": 0.0384
+    },
+    {
+        "motion_energy": 0.1412999927997589,
+        "brightness_shift": 0.024
+    },
+    {
+        "motion_energy": 0.10320000350475311,
+        "brightness_shift": 0.0471
+    },
+    {
+        "motion_energy": 0.18629999458789825,
+        "brightness_shift": 0.0221
+    },
+    {
+        "motion_energy": 0.12150000035762787,
+        "brightness_shift": 0.0194
+    },
+    {
+        "motion_energy": 0.1006999984383583,
+        "brightness_shift": 0.0178
+    },
+    {
+        "motion_energy": 0.09210000187158585,
+        "brightness_shift": 0.0026
+    },
+    {
+        "motion_energy": 0.12549999356269836,
+        "brightness_shift": 0.0331
+    },
+    {
+        "motion_energy": 0.1720999926328659,
+        "brightness_shift": 0.044
+    },
+    {
+        "motion_energy": 0.12349999696016312,
+        "brightness_shift": 0.0098
+    },
+    {
+        "motion_energy": 0.1298999935388565,
+        "brightness_shift": 0.0721
+    },
+    {
+        "motion_energy": 0.15919999778270721,
+        "brightness_shift": 0.0171
+    },
+    {
+        "motion_energy": 0.11649999767541885,
+        "brightness_shift": 0.0421
+    },
+    {
+        "motion_energy": 0.09989999979734421,
+        "brightness_shift": 0.0102
+    },
+    {
+        "motion_energy": 0.09799999743700027,
+        "brightness_shift": 0.0265
+    },
+    {
+        "motion_energy": 0.08489999920129776,
+        "brightness_shift": 0.0226
+    },
+    {
+        "motion_energy": 0.1298999935388565,
+        "brightness_shift": 0.0292
+    },
+    {
+        "motion_energy": 0.093299999833107,
+        "brightness_shift": 0.0133
+    },
+    {
+        "motion_energy": 8.230999946594238,
+        "brightness_shift": 35.2312
+    },
+    {
+        "motion_energy": 0.10779999941587448,
+        "brightness_shift": 0.0827
+    },
+    {
+        "motion_energy": 0.20340000092983246,
+        "brightness_shift": 0.0974
+    },
+    {
+        "motion_energy": 0.1453000009059906,
+        "brightness_shift": 0.0089
+    },
+    {
+        "motion_energy": 0.164900004863739,
+        "brightness_shift": 0.0489
+    },
+    {
+        "motion_energy": 0.1843000054359436,
+        "brightness_shift": 0.0938
+    },
+    {
+        "motion_energy": 0.1687999963760376,
+        "brightness_shift": 0.0147
+    },
+    {
+        "motion_energy": 0.1703999936580658,
+        "brightness_shift": 0.0449
+    },
+    {
+        "motion_energy": 0.1582999974489212,
+        "brightness_shift": 0.0287
+    },
+    {
+        "motion_energy": 0.18850000202655792,
+        "brightness_shift": 0.0166
+    },
+    {
+        "motion_energy": 0.18729999661445618,
+        "brightness_shift": 0.0675
+    },
+    {
+        "motion_energy": 0.1696999967098236,
+        "brightness_shift": 0.0328
+    },
+    {
+        "motion_energy": 0.18559999763965607,
+        "brightness_shift": 0.0546
+    },
+    {
+        "motion_energy": 0.1777999997138977,
+        "brightness_shift": 0.1364
+    },
+    {
+        "motion_energy": 0.18209999799728394,
+        "brightness_shift": 0.0599
+    },
+    {
+        "motion_energy": 0.20819999277591705,
+        "brightness_shift": 0.0078
+    },
+    {
+        "motion_energy": 0.1860000044107437,
+        "brightness_shift": 0.0276
+    },
+    {
+        "motion_energy": 0.18449999392032623,
+        "brightness_shift": 0.0159
+    },
+    {
+        "motion_energy": 0.20430000126361847,
+        "brightness_shift": 0.0734
+    },
+    {
+        "motion_energy": 0.17239999771118164,
+        "brightness_shift": 0.0226
+    },
+    {
+        "motion_energy": 0.17409999668598175,
+        "brightness_shift": 0.0099
+    },
+    {
+        "motion_energy": 0.18559999763965607,
+        "brightness_shift": 0.0376
+    },
+    {
+        "motion_energy": 0.19820000231266022,
+        "brightness_shift": 0.0157
+    },
+    {
+        "motion_energy": 0.18070000410079956,
+        "brightness_shift": 0.0056
+    },
+    {
+        "motion_energy": 0.19840000569820404,
+        "brightness_shift": 0.0141
+    },
+    {
+        "motion_energy": 0.18379999697208405,
+        "brightness_shift": 0.0571
+    },
+    {
+        "motion_energy": 0.19030000269412994,
+        "brightness_shift": 0.0334
+    },
+    {
+        "motion_energy": 0.1664000004529953,
+        "brightness_shift": 0.0149
+    },
+    {
+        "motion_energy": 0.188400000333786,
+        "brightness_shift": 0.0112
+    },
+    {
+        "motion_energy": 0.19529999792575836,
+        "brightness_shift": 0.0079
+    },
+    {
+        "motion_energy": 0.18289999663829803,
+        "brightness_shift": 0.041
+    },
+    {
+        "motion_energy": 0.1850000023841858,
+        "brightness_shift": 0.0124
+    },
+    {
+        "motion_energy": 0.19329999387264252,
+        "brightness_shift": 0.0824
+    },
+    {
+        "motion_energy": 0.1964000016450882,
+        "brightness_shift": 0.0137
+    },
+    {
+        "motion_energy": 0.20649999380111694,
+        "brightness_shift": 0.0074
+    },
+    {
+        "motion_energy": 0.17980000376701355,
+        "brightness_shift": 0.1128
+    },
+    {
+        "motion_energy": 0.17919999361038208,
+        "brightness_shift": 0.0277
+    },
+    {
+        "motion_energy": 0.20329999923706055,
+        "brightness_shift": 0.0669
+    },
+    {
+        "motion_energy": 0.20180000364780426,
+        "brightness_shift": 0.0057
+    },
+    {
+        "motion_energy": 0.18459999561309814,
+        "brightness_shift": 0.0335
+    },
+    {
+        "motion_energy": 0.19740000367164612,
+        "brightness_shift": 0.0089
+    },
+    {
+        "motion_energy": 0.2053000032901764,
+        "brightness_shift": 0.0481
+    },
+    {
+        "motion_energy": 0.2020999938249588,
+        "brightness_shift": 0.0296
+    },
+    {
+        "motion_energy": 0.21070000529289246,
+        "brightness_shift": 0.0544
+    },
+    {
+        "motion_energy": 0.19869999587535858,
+        "brightness_shift": 0.1004
+    },
+    {
+        "motion_energy": 0.2126999944448471,
+        "brightness_shift": 0.0624
+    },
+    {
+        "motion_energy": 0.2069000005722046,
+        "brightness_shift": 0.1047
+    },
+    {
+        "motion_energy": 0.19769999384880066,
+        "brightness_shift": 0.0681
+    },
+    {
+        "motion_energy": 0.20640000700950623,
+        "brightness_shift": 0.0017
+    },
+    {
+        "motion_energy": 0.22120000422000885,
+        "brightness_shift": 0.0155
+    },
+    {
+        "motion_energy": 0.21369999647140503,
+        "brightness_shift": 0.0772
+    },
+    {
+        "motion_energy": 0.1899999976158142,
+        "brightness_shift": 0.0579
+    },
+    {
+        "motion_energy": 6.6753997802734375,
+        "brightness_shift": 17.1885
+    },
+    {
+        "motion_energy": 0.06210000067949295,
+        "brightness_shift": 0.022
+    },
+    {
+        "motion_energy": 0.07670000195503235,
+        "brightness_shift": 0.0026
+    },
+    {
+        "motion_energy": 0.07460000365972519,
+        "brightness_shift": 0.0167
+    },
+    {
+        "motion_energy": 0.07599999755620956,
+        "brightness_shift": 0.0435
+    },
+    {
+        "motion_energy": 0.07509999722242355,
+        "brightness_shift": 0.0172
+    },
+    {
+        "motion_energy": 0.09120000153779984,
+        "brightness_shift": 0.0359
+    },
+    {
+        "motion_energy": 0.10320000350475311,
+        "brightness_shift": 0.0721
+    },
+    {
+        "motion_energy": 0.09369999915361404,
+        "brightness_shift": 0.0059
+    },
+    {
+        "motion_energy": 0.09470000118017197,
+        "brightness_shift": 0.0738
+    },
+    {
+        "motion_energy": 0.08540000021457672,
+        "brightness_shift": 0.0298
+    },
+    {
+        "motion_energy": 0.09009999781847,
+        "brightness_shift": 0.0476
+    },
+    {
+        "motion_energy": 0.09939999878406525,
+        "brightness_shift": 0.0077
+    },
+    {
+        "motion_energy": 0.08399999886751175,
+        "brightness_shift": 0.0355
+    },
+    {
+        "motion_energy": 0.07829999923706055,
+        "brightness_shift": 0.0109
+    },
+    {
+        "motion_energy": 0.07580000162124634,
+        "brightness_shift": 0.0349
+    },
+    {
+        "motion_energy": 0.09269999712705612,
+        "brightness_shift": 0.0063
+    },
+    {
+        "motion_energy": 0.08129999786615372,
+        "brightness_shift": 0.0371
+    },
+    {
+        "motion_energy": 0.08699999749660492,
+        "brightness_shift": 0.0365
+    },
+    {
+        "motion_energy": 0.08630000054836273,
+        "brightness_shift": 0.0084
+    },
+    {
+        "motion_energy": 0.08919999748468399,
+        "brightness_shift": 0.0753
+    },
+    {
+        "motion_energy": 0.08259999752044678,
+        "brightness_shift": 0.013
+    },
+    {
+        "motion_energy": 0.09049999713897705,
+        "brightness_shift": 0.0191
+    },
+    {
+        "motion_energy": 0.08389999717473984,
+        "brightness_shift": 0.0229
+    },
+    {
+        "motion_energy": 0.0997999981045723,
+        "brightness_shift": 0.006
+    },
+    {
+        "motion_energy": 0.07930000126361847,
+        "brightness_shift": 0.044
+    },
+    {
+        "motion_energy": 0.10090000182390213,
+        "brightness_shift": 0.0218
+    },
+    {
+        "motion_energy": 0.09080000221729279,
+        "brightness_shift": 0.0468
+    },
+    {
+        "motion_energy": 0.09109999984502792,
+        "brightness_shift": 0.0158
+    },
+    {
+        "motion_energy": 0.08420000225305557,
+        "brightness_shift": 0.0104
+    },
+    {
+        "motion_energy": 0.08709999918937683,
+        "brightness_shift": 0.013
+    },
+    {
+        "motion_energy": 0.08550000190734863,
+        "brightness_shift": 0.0009
+    },
+    {
+        "motion_energy": 0.08990000188350677,
+        "brightness_shift": 0.0326
+    },
+    {
+        "motion_energy": 0.09969999641180038,
+        "brightness_shift": 0.0093
+    },
+    {
+        "motion_energy": 0.09549999982118607,
+        "brightness_shift": 0.0399
+    },
+    {
+        "motion_energy": 0.10440000146627426,
+        "brightness_shift": 0.0845
+    },
+    {
+        "motion_energy": 0.1185000017285347,
+        "brightness_shift": 0.0629
+    },
+    {
+        "motion_energy": 0.11779999732971191,
+        "brightness_shift": 0.008
+    },
+    {
+        "motion_energy": 0.12349999696016312,
+        "brightness_shift": 0.0561
+    },
+    {
+        "motion_energy": 0.10909999907016754,
+        "brightness_shift": 0.0049
+    },
+    {
+        "motion_energy": 0.1728000044822693,
+        "brightness_shift": 0.0346
+    },
+    {
+        "motion_energy": 0.09529999643564224,
+        "brightness_shift": 0.0214
+    },
+    {
+        "motion_energy": 0.09030000120401382,
+        "brightness_shift": 0.0879
+    },
+    {
+        "motion_energy": 0.09149999916553497,
+        "brightness_shift": 0.0194
+    },
+    {
+        "motion_energy": 0.08749999850988388,
+        "brightness_shift": 0.0531
+    },
+    {
+        "motion_energy": 0.09969999641180038,
+        "brightness_shift": 0.0395
+    },
+    {
+        "motion_energy": 0.09589999914169312,
+        "brightness_shift": 0.0422
+    },
+    {
+        "motion_energy": 0.09449999779462814,
+        "brightness_shift": 0.0148
+    },
+    {
+        "motion_energy": 0.09730000048875809,
+        "brightness_shift": 0.0183
+    },
+    {
+        "motion_energy": 0.09380000084638596,
+        "brightness_shift": 0.0371
+    },
+    {
+        "motion_energy": 24.088300704956055,
+        "brightness_shift": 69.9098
+    },
+    {
+        "motion_energy": 0.02810000069439411,
+        "brightness_shift": 0.0771
+    },
+    {
+        "motion_energy": 0.0471000000834465,
+        "brightness_shift": 0.0308
+    },
+    {
+        "motion_energy": 0.04170000180602074,
+        "brightness_shift": 0.0152
+    },
+    {
+        "motion_energy": 0.03009999915957451,
+        "brightness_shift": 0.0205
+    },
+    {
+        "motion_energy": 0.0430000014603138,
+        "brightness_shift": 0.0606
+    },
+    {
+        "motion_energy": 0.04610000178217888,
+        "brightness_shift": 0.0176
+    },
+    {
+        "motion_energy": 0.03310000151395798,
+        "brightness_shift": 0.0361
+    },
+    {
+        "motion_energy": 0.032600000500679016,
+        "brightness_shift": 0.0177
+    },
+    {
+        "motion_energy": 0.04050000011920929,
+        "brightness_shift": 0.0516
+    },
+    {
+        "motion_energy": 0.0357000008225441,
+        "brightness_shift": 0.0103
+    },
+    {
+        "motion_energy": 0.032999999821186066,
+        "brightness_shift": 0.0401
+    },
+    {
+        "motion_energy": 0.03970000147819519,
+        "brightness_shift": 0.0023
+    },
+    {
+        "motion_energy": 0.05000000074505806,
+        "brightness_shift": 0.0498
+    },
+    {
+        "motion_energy": 0.0471000000834465,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.044599998742341995,
+        "brightness_shift": 0.0154
+    },
+    {
+        "motion_energy": 0.025599999353289604,
+        "brightness_shift": 0.013
+    },
+    {
+        "motion_energy": 0.05299999937415123,
+        "brightness_shift": 0.0406
+    },
+    {
+        "motion_energy": 0.049800001084804535,
+        "brightness_shift": 0.024
+    },
+    {
+        "motion_energy": 0.0575999990105629,
+        "brightness_shift": 0.0009
+    },
+    {
+        "motion_energy": 0.03709999844431877,
+        "brightness_shift": 0.0165
+    },
+    {
+        "motion_energy": 0.056699998676776886,
+        "brightness_shift": 0.0192
+    },
+    {
+        "motion_energy": 0.03689999878406525,
+        "brightness_shift": 0.0174
+    },
+    {
+        "motion_energy": 0.04540000110864639,
+        "brightness_shift": 0.0163
+    },
+    {
+        "motion_energy": 0.04390000179409981,
+        "brightness_shift": 0.0385
+    },
+    {
+        "motion_energy": 0.05249999836087227,
+        "brightness_shift": 0.0348
+    },
+    {
+        "motion_energy": 0.04479999840259552,
+        "brightness_shift": 0.0419
+    },
+    {
+        "motion_energy": 0.05090000107884407,
+        "brightness_shift": 0.0138
+    },
+    {
+        "motion_energy": 0.046799998730421066,
+        "brightness_shift": 0.0348
+    },
+    {
+        "motion_energy": 0.07880000025033951,
+        "brightness_shift": 0.0265
+    },
+    {
+        "motion_energy": 0.06780000030994415,
+        "brightness_shift": 0.0245
+    },
+    {
+        "motion_energy": 0.04830000177025795,
+        "brightness_shift": 0.0069
+    },
+    {
+        "motion_energy": 0.0406000018119812,
+        "brightness_shift": 0.0185
+    },
+    {
+        "motion_energy": 0.05389999970793724,
+        "brightness_shift": 0.0051
+    },
+    {
+        "motion_energy": 0.05770000070333481,
+        "brightness_shift": 0.0218
+    },
+    {
+        "motion_energy": 0.04919999837875366,
+        "brightness_shift": 0.0364
+    },
+    {
+        "motion_energy": 0.06440000236034393,
+        "brightness_shift": 0.0234
+    },
+    {
+        "motion_energy": 0.05620000138878822,
+        "brightness_shift": 0.04
+    },
+    {
+        "motion_energy": 0.07670000195503235,
+        "brightness_shift": 0.0107
+    },
+    {
+        "motion_energy": 0.08330000191926956,
+        "brightness_shift": 0.0247
+    },
+    {
+        "motion_energy": 0.06629999727010727,
+        "brightness_shift": 0.0398
+    },
+    {
+        "motion_energy": 0.047200001776218414,
+        "brightness_shift": 0.0401
+    },
+    {
+        "motion_energy": 0.04690000042319298,
+        "brightness_shift": 0.0414
+    },
+    {
+        "motion_energy": 0.04529999941587448,
+        "brightness_shift": 0.0176
+    },
+    {
+        "motion_energy": 0.03849999979138374,
+        "brightness_shift": 0.025
+    },
+    {
+        "motion_energy": 0.05779999867081642,
+        "brightness_shift": 0.0085
+    },
+    {
+        "motion_energy": 0.03139999881386757,
+        "brightness_shift": 0.0296
+    },
+    {
+        "motion_energy": 0.05530000105500221,
+        "brightness_shift": 0.0093
+    },
+    {
+        "motion_energy": 0.02410000003874302,
+        "brightness_shift": 0.0204
+    },
+    {
+        "motion_energy": 0.029999999329447746,
+        "brightness_shift": 0.0294
+    },
+    {
+        "motion_energy": 9.417099952697754,
+        "brightness_shift": 11.7506
+    },
+    {
+        "motion_energy": 0.13539999723434448,
+        "brightness_shift": 0.044
+    },
+    {
+        "motion_energy": 0.09629999846220016,
+        "brightness_shift": 0.0039
+    },
+    {
+        "motion_energy": 0.10100000351667404,
+        "brightness_shift": 0.0643
+    },
+    {
+        "motion_energy": 0.08529999852180481,
+        "brightness_shift": 0.0474
+    },
+    {
+        "motion_energy": 0.0989999994635582,
+        "brightness_shift": 0.0405
+    },
+    {
+        "motion_energy": 0.07360000163316727,
+        "brightness_shift": 0.0268
+    },
+    {
+        "motion_energy": 0.08219999819993973,
+        "brightness_shift": 0.0156
+    },
+    {
+        "motion_energy": 0.08489999920129776,
+        "brightness_shift": 0.0235
+    },
+    {
+        "motion_energy": 0.09860000014305115,
+        "brightness_shift": 0.0603
+    },
+    {
+        "motion_energy": 0.10999999940395355,
+        "brightness_shift": 0.0022
+    },
+    {
+        "motion_energy": 0.0494999997317791,
+        "brightness_shift": 0.0012
+    },
+    {
+        "motion_energy": 0.06719999760389328,
+        "brightness_shift": 0.0323
+    },
+    {
+        "motion_energy": 0.1145000010728836,
+        "brightness_shift": 0.0127
+    },
+    {
+        "motion_energy": 0.056299999356269836,
+        "brightness_shift": 0.0132
+    },
+    {
+        "motion_energy": 0.07259999960660934,
+        "brightness_shift": 0.0258
+    },
+    {
+        "motion_energy": 0.10260000079870224,
+        "brightness_shift": 0.0002
+    },
+    {
+        "motion_energy": 0.11010000109672546,
+        "brightness_shift": 0.0346
+    },
+    {
+        "motion_energy": 0.059700001031160355,
+        "brightness_shift": 0.0589
+    },
+    {
+        "motion_energy": 0.0892999991774559,
+        "brightness_shift": 0.01
+    },
+    {
+        "motion_energy": 0.06610000133514404,
+        "brightness_shift": 0.0253
+    },
+    {
+        "motion_energy": 0.12250000238418579,
+        "brightness_shift": 0.0326
+    },
+    {
+        "motion_energy": 0.057100001722574234,
+        "brightness_shift": 0.0087
+    },
+    {
+        "motion_energy": 0.08879999816417694,
+        "brightness_shift": 0.0305
+    },
+    {
+        "motion_energy": 0.1152999997138977,
+        "brightness_shift": 0.0685
+    },
+    {
+        "motion_energy": 0.07280000299215317,
+        "brightness_shift": 0.0109
+    },
+    {
+        "motion_energy": 0.10760000348091125,
+        "brightness_shift": 0.0427
+    },
+    {
+        "motion_energy": 0.11169999837875366,
+        "brightness_shift": 0.0897
+    },
+    {
+        "motion_energy": 0.050700001418590546,
+        "brightness_shift": 0.0114
+    },
+    {
+        "motion_energy": 0.07259999960660934,
+        "brightness_shift": 0.0039
+    },
+    {
+        "motion_energy": 0.10949999839067459,
+        "brightness_shift": 0.0738
+    },
+    {
+        "motion_energy": 0.05909999832510948,
+        "brightness_shift": 0.0007
+    },
+    {
+        "motion_energy": 0.1006999984383583,
+        "brightness_shift": 0.0283
+    },
+    {
+        "motion_energy": 0.1598999947309494,
+        "brightness_shift": 0.1101
+    },
+    {
+        "motion_energy": 0.07999999821186066,
+        "brightness_shift": 0.0058
+    },
+    {
+        "motion_energy": 0.066600002348423,
+        "brightness_shift": 0.0093
+    },
+    {
+        "motion_energy": 0.1371999979019165,
+        "brightness_shift": 0.0632
+    },
+    {
+        "motion_energy": 0.09520000219345093,
+        "brightness_shift": 0.0307
+    },
+    {
+        "motion_energy": 0.11670000106096268,
+        "brightness_shift": 0.0408
+    },
+    {
+        "motion_energy": 0.09070000052452087,
+        "brightness_shift": 0.0471
+    },
+    {
+        "motion_energy": 0.08889999985694885,
+        "brightness_shift": 0.0211
+    },
+    {
+        "motion_energy": 0.13230000436306,
+        "brightness_shift": 0.0194
+    },
+    {
+        "motion_energy": 0.10379999876022339,
+        "brightness_shift": 0.0696
+    },
+    {
+        "motion_energy": 0.08139999955892563,
+        "brightness_shift": 0.0146
+    },
+    {
+        "motion_energy": 0.0706000030040741,
+        "brightness_shift": 0.0156
+    },
+    {
+        "motion_energy": 0.11289999634027481,
+        "brightness_shift": 0.0202
+    },
+    {
+        "motion_energy": 0.11479999870061874,
+        "brightness_shift": 0.0126
+    },
+    {
+        "motion_energy": 0.06109999865293503,
+        "brightness_shift": 0.0084
+    },
+    {
+        "motion_energy": 8.732600212097168,
+        "brightness_shift": 28.8637
+    },
+    {
+        "motion_energy": 0.11649999767541885,
+        "brightness_shift": 0.0186
+    },
+    {
+        "motion_energy": 0.1363999992609024,
+        "brightness_shift": 0.0963
+    },
+    {
+        "motion_energy": 0.13300000131130219,
+        "brightness_shift": 0.1691
+    },
+    {
+        "motion_energy": 0.24740000069141388,
+        "brightness_shift": 0.2261
+    },
+    {
+        "motion_energy": 0.10750000178813934,
+        "brightness_shift": 0.1079
+    },
+    {
+        "motion_energy": 0.13989999890327454,
+        "brightness_shift": 0.12
+    },
+    {
+        "motion_energy": 0.10999999940395355,
+        "brightness_shift": 0.0258
+    },
+    {
+        "motion_energy": 0.2973000109195709,
+        "brightness_shift": 0.1288
+    },
+    {
+        "motion_energy": 0.16279999911785126,
+        "brightness_shift": 0.0695
+    },
+    {
+        "motion_energy": 0.1809999942779541,
+        "brightness_shift": 0.0618
+    },
+    {
+        "motion_energy": 0.1444000005722046,
+        "brightness_shift": 0.0842
+    },
+    {
+        "motion_energy": 0.2045000046491623,
+        "brightness_shift": 0.211
+    },
+    {
+        "motion_energy": 0.08990000188350677,
+        "brightness_shift": 0.0121
+    },
+    {
+        "motion_energy": 0.1340000033378601,
+        "brightness_shift": 0.0259
+    },
+    {
+        "motion_energy": 0.13689999282360077,
+        "brightness_shift": 0.0403
+    },
+    {
+        "motion_energy": 0.3149000108242035,
+        "brightness_shift": 0.017
+    },
+    {
+        "motion_energy": 0.2152000069618225,
+        "brightness_shift": 0.1034
+    },
+    {
+        "motion_energy": 0.15129999816417694,
+        "brightness_shift": 0.103
+    },
+    {
+        "motion_energy": 0.18610000610351562,
+        "brightness_shift": 0.0518
+    },
+    {
+        "motion_energy": 0.3456000089645386,
+        "brightness_shift": 0.0201
+    },
+    {
+        "motion_energy": 0.1281999945640564,
+        "brightness_shift": 0.085
+    },
+    {
+        "motion_energy": 0.11219999939203262,
+        "brightness_shift": 0.027
+    },
+    {
+        "motion_energy": 0.09910000115633011,
+        "brightness_shift": 0.0258
+    },
+    {
+        "motion_energy": 0.15620000660419464,
+        "brightness_shift": 0.1173
+    },
+    {
+        "motion_energy": 0.12639999389648438,
+        "brightness_shift": 0.0388
+    },
+    {
+        "motion_energy": 0.1657000035047531,
+        "brightness_shift": 0.0164
+    },
+    {
+        "motion_energy": 0.41280001401901245,
+        "brightness_shift": 0.0787
+    },
+    {
+        "motion_energy": 0.296099990606308,
+        "brightness_shift": 0.062
+    },
+    {
+        "motion_energy": 0.3637999892234802,
+        "brightness_shift": 0.0604
+    },
+    {
+        "motion_energy": 0.36160001158714294,
+        "brightness_shift": 0.0911
+    },
+    {
+        "motion_energy": 0.5282999873161316,
+        "brightness_shift": 0.2508
+    },
+    {
+        "motion_energy": 0.24379999935626984,
+        "brightness_shift": 0.1441
+    },
+    {
+        "motion_energy": 0.2248000055551529,
+        "brightness_shift": 0.048
+    },
+    {
+        "motion_energy": 0.18520000576972961,
+        "brightness_shift": 0.0838
+    },
+    {
+        "motion_energy": 0.41440001130104065,
+        "brightness_shift": 0.267
+    },
+    {
+        "motion_energy": 0.18039999902248383,
+        "brightness_shift": 0.1027
+    },
+    {
+        "motion_energy": 0.1120000034570694,
+        "brightness_shift": 0.047
+    },
+    {
+        "motion_energy": 0.1200999990105629,
+        "brightness_shift": 0.0659
+    },
+    {
+        "motion_energy": 0.19480000436306,
+        "brightness_shift": 0.0874
+    },
+    {
+        "motion_energy": 0.1673000007867813,
+        "brightness_shift": 0.0394
+    },
+    {
+        "motion_energy": 0.27410000562667847,
+        "brightness_shift": 0.046
+    },
+    {
+        "motion_energy": 0.30399999022483826,
+        "brightness_shift": 0.0004
+    },
+    {
+        "motion_energy": 0.6575999855995178,
+        "brightness_shift": 0.1297
+    },
+    {
+        "motion_energy": 0.3050000071525574,
+        "brightness_shift": 0.0577
+    },
+    {
+        "motion_energy": 0.3176000118255615,
+        "brightness_shift": 0.0628
+    },
+    {
+        "motion_energy": 0.320499986410141,
+        "brightness_shift": 0.01
+    },
+    {
+        "motion_energy": 0.5514000058174133,
+        "brightness_shift": 0.1266
+    },
+    {
+        "motion_energy": 0.24770000576972961,
+        "brightness_shift": 0.0092
+    },
+    {
+        "motion_energy": 0.23829999566078186,
+        "brightness_shift": 0.0097
+    },
+    {
+        "motion_energy": 0.38830000162124634,
+        "brightness_shift": 0.0213
+    },
+    {
+        "motion_energy": 8.709799766540527,
+        "brightness_shift": 3.2041
+    },
+    {
+        "motion_energy": 0.03449999913573265,
+        "brightness_shift": 0.027
+    },
+    {
+        "motion_energy": 0.052400000393390656,
+        "brightness_shift": 0.0142
+    },
+    {
+        "motion_energy": 0.050599999725818634,
+        "brightness_shift": 0.0029
+    },
+    {
+        "motion_energy": 0.07010000199079514,
+        "brightness_shift": 0.0385
+    },
+    {
+        "motion_energy": 0.06440000236034393,
+        "brightness_shift": 0.014
+    },
+    {
+        "motion_energy": 0.050599999725818634,
+        "brightness_shift": 0.0071
+    },
+    {
+        "motion_energy": 0.10339999943971634,
+        "brightness_shift": 0.0665
+    },
+    {
+        "motion_energy": 0.043299999088048935,
+        "brightness_shift": 0.0125
+    },
+    {
+        "motion_energy": 0.06069999933242798,
+        "brightness_shift": 0.0227
+    },
+    {
+        "motion_energy": 0.055799998342990875,
+        "brightness_shift": 0.0312
+    },
+    {
+        "motion_energy": 0.056299999356269836,
+        "brightness_shift": 0.0014
+    },
+    {
+        "motion_energy": 0.05389999970793724,
+        "brightness_shift": 0.0235
+    },
+    {
+        "motion_energy": 0.11180000007152557,
+        "brightness_shift": 0.1153
+    },
+    {
+        "motion_energy": 0.0575999990105629,
+        "brightness_shift": 0.0104
+    },
+    {
+        "motion_energy": 0.060499999672174454,
+        "brightness_shift": 0.0297
+    },
+    {
+        "motion_energy": 0.04989999905228615,
+        "brightness_shift": 0.0304
+    },
+    {
+        "motion_energy": 0.10440000146627426,
+        "brightness_shift": 0.075
+    },
+    {
+        "motion_energy": 0.044199999421834946,
+        "brightness_shift": 0.0097
+    },
+    {
+        "motion_energy": 0.05860000103712082,
+        "brightness_shift": 0.002
+    },
+    {
+        "motion_energy": 0.08940000087022781,
+        "brightness_shift": 0.024
+    },
+    {
+        "motion_energy": 0.06830000132322311,
+        "brightness_shift": 0.0384
+    },
+    {
+        "motion_energy": 0.059300001710653305,
+        "brightness_shift": 0.0041
+    },
+    {
+        "motion_energy": 0.07559999823570251,
+        "brightness_shift": 0.0339
+    },
+    {
+        "motion_energy": 0.05389999970793724,
+        "brightness_shift": 0.0112
+    },
+    {
+        "motion_energy": 0.05959999933838844,
+        "brightness_shift": 0.0284
+    },
+    {
+        "motion_energy": 0.05620000138878822,
+        "brightness_shift": 0.0378
+    },
+    {
+        "motion_energy": 0.041600000113248825,
+        "brightness_shift": 0.0185
+    },
+    {
+        "motion_energy": 0.09009999781847,
+        "brightness_shift": 0.0685
+    },
+    {
+        "motion_energy": 0.12070000171661377,
+        "brightness_shift": 0.1216
+    },
+    {
+        "motion_energy": 0.05849999934434891,
+        "brightness_shift": 0.0417
+    },
+    {
+        "motion_energy": 0.05730000138282776,
+        "brightness_shift": 0.0046
+    },
+    {
+        "motion_energy": 0.10209999978542328,
+        "brightness_shift": 0.071
+    },
+    {
+        "motion_energy": 0.09690000116825104,
+        "brightness_shift": 0.005
+    },
+    {
+        "motion_energy": 0.07360000163316727,
+        "brightness_shift": 0.0239
+    },
+    {
+        "motion_energy": 0.07639999687671661,
+        "brightness_shift": 0.0187
+    },
+    {
+        "motion_energy": 0.09030000120401382,
+        "brightness_shift": 0.0017
+    },
+    {
+        "motion_energy": 0.08579999953508377,
+        "brightness_shift": 0.0354
+    },
+    {
+        "motion_energy": 0.09839999675750732,
+        "brightness_shift": 0.0013
+    },
+    {
+        "motion_energy": 0.06340000033378601,
+        "brightness_shift": 0.0124
+    },
+    {
+        "motion_energy": 0.07490000128746033,
+        "brightness_shift": 0.0255
+    },
+    {
+        "motion_energy": 0.1485999971628189,
+        "brightness_shift": 0.1063
+    },
+    {
+        "motion_energy": 0.06750000268220901,
+        "brightness_shift": 0.0175
+    },
+    {
+        "motion_energy": 0.060100000351667404,
+        "brightness_shift": 0.0086
+    },
+    {
+        "motion_energy": 0.0966000035405159,
+        "brightness_shift": 0.0257
+    },
+    {
+        "motion_energy": 0.13259999454021454,
+        "brightness_shift": 0.0401
+    },
+    {
+        "motion_energy": 0.07360000163316727,
+        "brightness_shift": 0.0074
+    },
+    {
+        "motion_energy": 0.06539999693632126,
+        "brightness_shift": 0.0239
+    },
+    {
+        "motion_energy": 0.07909999787807465,
+        "brightness_shift": 0.0439
+    },
+    {
+        "motion_energy": 0.10350000113248825,
+        "brightness_shift": 0.0579
+    },
+    {
+        "motion_energy": 0.07329999655485153,
+        "brightness_shift": 0.0056
+    },
+    {
+        "motion_energy": 0.06430000066757202,
+        "brightness_shift": 0.0142
+    },
+    {
+        "motion_energy": 0.11789999902248383,
+        "brightness_shift": 0.0272
+    },
+    {
+        "motion_energy": 6.592800140380859,
+        "brightness_shift": 39.3132
+    },
+    {
+        "motion_energy": 0.024399999529123306,
+        "brightness_shift": 0.1015
+    },
+    {
+        "motion_energy": 0.03929999843239784,
+        "brightness_shift": 0.4013
+    },
+    {
+        "motion_energy": 0.0284000001847744,
+        "brightness_shift": 0.1751
+    },
+    {
+        "motion_energy": 0.03880000114440918,
+        "brightness_shift": 0.4974
+    },
+    {
+        "motion_energy": 0.025599999353289604,
+        "brightness_shift": 0.0621
+    },
+    {
+        "motion_energy": 0.03229999914765358,
+        "brightness_shift": 0.0373
+    },
+    {
+        "motion_energy": 0.03020000085234642,
+        "brightness_shift": 0.056
+    },
+    {
+        "motion_energy": 0.038600001484155655,
+        "brightness_shift": 0.0773
+    },
+    {
+        "motion_energy": 0.026100000366568565,
+        "brightness_shift": 0.005
+    },
+    {
+        "motion_energy": 0.03550000116229057,
+        "brightness_shift": 0.0806
+    },
+    {
+        "motion_energy": 0.04129999876022339,
+        "brightness_shift": 0.0374
+    },
+    {
+        "motion_energy": 0.0364999994635582,
+        "brightness_shift": 0.0524
+    },
+    {
+        "motion_energy": 0.026599999517202377,
+        "brightness_shift": 0.004
+    },
+    {
+        "motion_energy": 0.029400000348687172,
+        "brightness_shift": 0.0388
+    },
+    {
+        "motion_energy": 0.03449999913573265,
+        "brightness_shift": 0.041
+    },
+    {
+        "motion_energy": 0.03500000014901161,
+        "brightness_shift": 0.0361
+    },
+    {
+        "motion_energy": 0.027300000190734863,
+        "brightness_shift": 0.0073
+    },
+    {
+        "motion_energy": 0.03280000016093254,
+        "brightness_shift": 0.0138
+    },
+    {
+        "motion_energy": 0.032600000500679016,
+        "brightness_shift": 0.0226
+    },
+    {
+        "motion_energy": 0.038100000470876694,
+        "brightness_shift": 0.0609
+    },
+    {
+        "motion_energy": 0.02669999934732914,
+        "brightness_shift": 0.0249
+    },
+    {
+        "motion_energy": 0.0284000001847744,
+        "brightness_shift": 0.0007
+    },
+    {
+        "motion_energy": 0.029400000348687172,
+        "brightness_shift": 0.0225
+    },
+    {
+        "motion_energy": 0.03500000014901161,
+        "brightness_shift": 0.0288
+    },
+    {
+        "motion_energy": 0.024800000712275505,
+        "brightness_shift": 0.0364
+    },
+    {
+        "motion_energy": 0.031099999323487282,
+        "brightness_shift": 0.0672
+    },
+    {
+        "motion_energy": 0.037300001829862595,
+        "brightness_shift": 0.0017
+    },
+    {
+        "motion_energy": 0.032999999821186066,
+        "brightness_shift": 0.0726
+    },
+    {
+        "motion_energy": 0.025699999183416367,
+        "brightness_shift": 0.0123
+    },
+    {
+        "motion_energy": 0.027699999511241913,
+        "brightness_shift": 0.016
+    },
+    {
+        "motion_energy": 0.03539999946951866,
+        "brightness_shift": 0.021
+    },
+    {
+        "motion_energy": 0.03550000116229057,
+        "brightness_shift": 0.0467
+    },
+    {
+        "motion_energy": 0.027000000700354576,
+        "brightness_shift": 0.0262
+    },
+    {
+        "motion_energy": 0.02850000001490116,
+        "brightness_shift": 0.0593
+    },
+    {
+        "motion_energy": 0.03139999881386757,
+        "brightness_shift": 0.0514
+    },
+    {
+        "motion_energy": 0.03909999877214432,
+        "brightness_shift": 0.0262
+    },
+    {
+        "motion_energy": 0.026399999856948853,
+        "brightness_shift": 0.007
+    },
+    {
+        "motion_energy": 0.029899999499320984,
+        "brightness_shift": 0.0379
+    },
+    {
+        "motion_energy": 0.033900000154972076,
+        "brightness_shift": 0.0171
+    },
+    {
+        "motion_energy": 0.033399999141693115,
+        "brightness_shift": 0.0226
+    },
+    {
+        "motion_energy": 0.025299999862909317,
+        "brightness_shift": 0.0517
+    },
+    {
+        "motion_energy": 0.037300001829862595,
+        "brightness_shift": 0.0291
+    },
+    {
+        "motion_energy": 0.032099999487400055,
+        "brightness_shift": 0.0236
+    },
+    {
+        "motion_energy": 0.03920000046491623,
+        "brightness_shift": 0.0749
+    },
+    {
+        "motion_energy": 0.030300000682473183,
+        "brightness_shift": 0.0152
+    },
+    {
+        "motion_energy": 0.03680000081658363,
+        "brightness_shift": 0.045
+    },
+    {
+        "motion_energy": 0.03680000081658363,
+        "brightness_shift": 0.003
+    },
+    {
+        "motion_energy": 0.04089999943971634,
+        "brightness_shift": 0.0344
+    },
+    {
+        "motion_energy": 0.028999999165534973,
+        "brightness_shift": 0.0409
+    },
+    {
+        "motion_energy": 0.03480000048875809,
+        "brightness_shift": 0.0785
+    },
+    {
+        "motion_energy": 0.0421999990940094,
+        "brightness_shift": 0.003
+    },
+    {
+        "motion_energy": 0.041099999099969864,
+        "brightness_shift": 0.0676
+    },
+    {
+        "motion_energy": 0.03449999913573265,
+        "brightness_shift": 0.0153
+    },
+    {
+        "motion_energy": 0.0348999984562397,
+        "brightness_shift": 0.0182
+    },
+    {
+        "motion_energy": 0.04309999942779541,
+        "brightness_shift": 0.0026
+    },
+    {
+        "motion_energy": 0.039500001817941666,
+        "brightness_shift": 0.0601
+    },
+    {
+        "motion_energy": 0.027899999171495438,
+        "brightness_shift": 0.0373
+    },
+    {
+        "motion_energy": 0.03739999979734421,
+        "brightness_shift": 0.055
+    },
+    {
+        "motion_energy": 0.04600000008940697,
+        "brightness_shift": 0.028
+    },
+    {
+        "motion_energy": 0.042100001126527786,
+        "brightness_shift": 0.0044
+    },
+    {
+        "motion_energy": 0.03420000150799751,
+        "brightness_shift": 0.0058
+    },
+    {
+        "motion_energy": 0.04019999876618385,
+        "brightness_shift": 0.0148
+    },
+    {
+        "motion_energy": 0.042899999767541885,
+        "brightness_shift": 0.038
+    },
+    {
+        "motion_energy": 0.045099999755620956,
+        "brightness_shift": 0.0272
+    },
+    {
+        "motion_energy": 0.027499999850988388,
+        "brightness_shift": 0.0266
+    },
+    {
+        "motion_energy": 0.03840000182390213,
+        "brightness_shift": 0.0029
+    },
+    {
+        "motion_energy": 0.04529999941587448,
+        "brightness_shift": 0.0053
+    },
+    {
+        "motion_energy": 0.04259999841451645,
+        "brightness_shift": 0.0609
+    },
+    {
+        "motion_energy": 0.036400001496076584,
+        "brightness_shift": 0.0619
+    },
+    {
+        "motion_energy": 0.039900001138448715,
+        "brightness_shift": 0.0286
+    },
+    {
+        "motion_energy": 0.04270000010728836,
+        "brightness_shift": 0.0101
+    },
+    {
+        "motion_energy": 0.04309999942779541,
+        "brightness_shift": 0.021
+    },
+    {
+        "motion_energy": 0.0348999984562397,
+        "brightness_shift": 0.0401
+    },
+    {
+        "motion_energy": 0.03819999843835831,
+        "brightness_shift": 0.0693
+    },
+    {
+        "motion_energy": 0.04780000075697899,
+        "brightness_shift": 0.0163
+    },
+    {
+        "motion_energy": 0.046799998730421066,
+        "brightness_shift": 0.0639
+    },
+    {
+        "motion_energy": 0.03819999843835831,
+        "brightness_shift": 0.0152
+    },
+    {
+        "motion_energy": 0.04360000044107437,
+        "brightness_shift": 0.0449
+    },
+    {
+        "motion_energy": 0.04360000044107437,
+        "brightness_shift": 0.0401
+    },
+    {
+        "motion_energy": 0.04410000145435333,
+        "brightness_shift": 0.0491
+    },
+    {
+        "motion_energy": 0.03460000082850456,
+        "brightness_shift": 0.0442
+    },
+    {
+        "motion_energy": 0.041099999099969864,
+        "brightness_shift": 0.6498
+    },
+    {
+        "motion_energy": 0.042500000447034836,
+        "brightness_shift": 0.8356
+    },
+    {
+        "motion_energy": 0.04520000144839287,
+        "brightness_shift": 0.8137
+    },
+    {
+        "motion_energy": 0.038100000470876694,
+        "brightness_shift": 0.806
+    },
+    {
+        "motion_energy": 0.03909999877214432,
+        "brightness_shift": 0.8126
+    },
+    {
+        "motion_energy": 0.04190000146627426,
+        "brightness_shift": 0.909
+    },
+    {
+        "motion_energy": 0.03880000114440918,
+        "brightness_shift": 0.8175
+    },
+    {
+        "motion_energy": 0.03440000116825104,
+        "brightness_shift": 0.8897
+    },
+    {
+        "motion_energy": 0.03889999911189079,
+        "brightness_shift": 0.7738
+    },
+    {
+        "motion_energy": 0.04349999874830246,
+        "brightness_shift": 0.8703
+    },
+    {
+        "motion_energy": 0.045499999076128006,
+        "brightness_shift": 0.8054
+    },
+    {
+        "motion_energy": 0.0421999990940094,
+        "brightness_shift": 0.8953
+    },
+    {
+        "motion_energy": 0.052000001072883606,
+        "brightness_shift": 0.9266
+    },
+    {
+        "motion_energy": 0.05490000173449516,
+        "brightness_shift": 0.9486
+    },
+    {
+        "motion_energy": 0.044199999421834946,
+        "brightness_shift": 0.8276
+    },
+    {
+        "motion_energy": 0.008799999952316284,
+        "brightness_shift": 0.8125
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0117
+    },
+    {
+        "motion_energy": 0.0010000000474974513,
+        "brightness_shift": 0.3732
+    },
+    {
+        "motion_energy": 0.019999999552965164,
+        "brightness_shift": 0.552
+    },
+    {
+        "motion_energy": 0.02759999968111515,
+        "brightness_shift": 0.6678
+    },
+    {
+        "motion_energy": 0.03480000048875809,
+        "brightness_shift": 0.8928
+    },
+    {
+        "motion_energy": 0.025200000032782555,
+        "brightness_shift": 0.6994
+    },
+    {
+        "motion_energy": 0.027899999171495438,
+        "brightness_shift": 0.6621
+    },
+    {
+        "motion_energy": 0.02630000002682209,
+        "brightness_shift": 0.6657
+    },
+    {
+        "motion_energy": 0.030300000682473183,
+        "brightness_shift": 0.5569
+    },
+    {
+        "motion_energy": 0.025599999353289604,
+        "brightness_shift": 0.5923
+    },
+    {
+        "motion_energy": 0.028599999845027924,
+        "brightness_shift": 0.7562
+    },
+    {
+        "motion_energy": 0.030899999663233757,
+        "brightness_shift": 0.5698
+    },
+    {
+        "motion_energy": 0.034699998795986176,
+        "brightness_shift": 0.7937
+    },
+    {
+        "motion_energy": 0.03189999982714653,
+        "brightness_shift": 0.6108
+    },
+    {
+        "motion_energy": 0.035599999129772186,
+        "brightness_shift": 0.7702
+    },
+    {
+        "motion_energy": 0.03869999945163727,
+        "brightness_shift": 0.6274
+    },
+    {
+        "motion_energy": 0.03830000013113022,
+        "brightness_shift": 0.1351
+    },
+    {
+        "motion_energy": 0.03480000048875809,
+        "brightness_shift": 0.0644
+    },
+    {
+        "motion_energy": 0.035999998450279236,
+        "brightness_shift": 0.0911
+    },
+    {
+        "motion_energy": 0.04129999876022339,
+        "brightness_shift": 0.0763
+    },
+    {
+        "motion_energy": 0.04340000078082085,
+        "brightness_shift": 0.0597
+    },
+    {
+        "motion_energy": 0.03759999945759773,
+        "brightness_shift": 0.0021
+    },
+    {
+        "motion_energy": 0.035599999129772186,
+        "brightness_shift": 0.0425
+    },
+    {
+        "motion_energy": 0.04309999942779541,
+        "brightness_shift": 0.0634
+    },
+    {
+        "motion_energy": 0.04410000145435333,
+        "brightness_shift": 0.0554
+    },
+    {
+        "motion_energy": 0.035100001841783524,
+        "brightness_shift": 0.0087
+    },
+    {
+        "motion_energy": 0.040300000458955765,
+        "brightness_shift": 0.0651
+    },
+    {
+        "motion_energy": 0.042899999767541885,
+        "brightness_shift": 0.0059
+    },
+    {
+        "motion_energy": 0.04280000180006027,
+        "brightness_shift": 0.0385
+    },
+    {
+        "motion_energy": 0.04170000180602074,
+        "brightness_shift": 0.0056
+    },
+    {
+        "motion_energy": 0.03929999843239784,
+        "brightness_shift": 0.053
+    },
+    {
+        "motion_energy": 0.04050000011920929,
+        "brightness_shift": 0.0186
+    },
+    {
+        "motion_energy": 0.04439999908208847,
+        "brightness_shift": 0.0458
+    },
+    {
+        "motion_energy": 0.03590000048279762,
+        "brightness_shift": 0.0369
+    },
+    {
+        "motion_energy": 0.041200000792741776,
+        "brightness_shift": 0.0155
+    },
+    {
+        "motion_energy": 0.04479999840259552,
+        "brightness_shift": 0.0332
+    },
+    {
+        "motion_energy": 0.04809999838471413,
+        "brightness_shift": 0.0663
+    },
+    {
+        "motion_energy": 0.041099999099969864,
+        "brightness_shift": 0.022
+    },
+    {
+        "motion_energy": 0.04349999874830246,
+        "brightness_shift": 0.0597
+    },
+    {
+        "motion_energy": 0.0414000004529953,
+        "brightness_shift": 0.042
+    },
+    {
+        "motion_energy": 0.048700001090765,
+        "brightness_shift": 0.0275
+    },
+    {
+        "motion_energy": 0.0406000018119812,
+        "brightness_shift": 0.0352
+    },
+    {
+        "motion_energy": 0.04270000010728836,
+        "brightness_shift": 0.0764
+    },
+    {
+        "motion_energy": 0.05220000073313713,
+        "brightness_shift": 0.0207
+    },
+    {
+        "motion_energy": 0.04830000177025795,
+        "brightness_shift": 0.0673
+    },
+    {
+        "motion_energy": 0.04540000110864639,
+        "brightness_shift": 0.0094
+    },
+    {
+        "motion_energy": 0.04390000179409981,
+        "brightness_shift": 0.013
+    },
+    {
+        "motion_energy": 0.0421999990940094,
+        "brightness_shift": 0.028
+    },
+    {
+        "motion_energy": 0.04580000042915344,
+        "brightness_shift": 0.0417
+    },
+    {
+        "motion_energy": 0.044199999421834946,
+        "brightness_shift": 0.0338
+    },
+    {
+        "motion_energy": 0.04699999839067459,
+        "brightness_shift": 0.055
+    },
+    {
+        "motion_energy": 0.04839999973773956,
+        "brightness_shift": 0.0458
+    },
+    {
+        "motion_energy": 0.050700001418590546,
+        "brightness_shift": 0.0007
+    },
+    {
+        "motion_energy": 0.04820000007748604,
+        "brightness_shift": 0.0197
+    },
+    {
+        "motion_energy": 0.045099999755620956,
+        "brightness_shift": 0.0603
+    },
+    {
+        "motion_energy": 0.04749999940395355,
+        "brightness_shift": 0.0237
+    },
+    {
+        "motion_energy": 0.04839999973773956,
+        "brightness_shift": 0.0484
+    },
+    {
+        "motion_energy": 0.0414000004529953,
+        "brightness_shift": 0.0205
+    },
+    {
+        "motion_energy": 0.050200000405311584,
+        "brightness_shift": 0.0212
+    },
+    {
+        "motion_energy": 0.050599999725818634,
+        "brightness_shift": 0.0311
+    },
+    {
+        "motion_energy": 0.052799999713897705,
+        "brightness_shift": 0.0721
+    },
+    {
+        "motion_energy": 0.04919999837875366,
+        "brightness_shift": 0.0369
+    },
+    {
+        "motion_energy": 0.04740000143647194,
+        "brightness_shift": 0.0549
+    },
+    {
+        "motion_energy": 0.049300000071525574,
+        "brightness_shift": 0.0135
+    },
+    {
+        "motion_energy": 0.05310000106692314,
+        "brightness_shift": 0.0083
+    },
+    {
+        "motion_energy": 0.046300001442432404,
+        "brightness_shift": 0.0222
+    },
+    {
+        "motion_energy": 0.0494999997317791,
+        "brightness_shift": 0.0626
+    },
+    {
+        "motion_energy": 0.052799999713897705,
+        "brightness_shift": 0.0068
+    },
+    {
+        "motion_energy": 0.054499998688697815,
+        "brightness_shift": 0.0479
+    },
+    {
+        "motion_energy": 0.05249999836087227,
+        "brightness_shift": 0.0059
+    },
+    {
+        "motion_energy": 0.052000001072883606,
+        "brightness_shift": 0.0097
+    },
+    {
+        "motion_energy": 0.05139999836683273,
+        "brightness_shift": 0.024
+    },
+    {
+        "motion_energy": 0.05640000104904175,
+        "brightness_shift": 0.0708
+    },
+    {
+        "motion_energy": 0.04859999939799309,
+        "brightness_shift": 0.0372
+    },
+    {
+        "motion_energy": 0.052400000393390656,
+        "brightness_shift": 0.0602
+    },
+    {
+        "motion_energy": 0.05860000103712082,
+        "brightness_shift": 0.0283
+    },
+    {
+        "motion_energy": 0.05810000002384186,
+        "brightness_shift": 0.0554
+    },
+    {
+        "motion_energy": 0.0560000017285347,
+        "brightness_shift": 0.1186
+    },
+    {
+        "motion_energy": 0.051600001752376556,
+        "brightness_shift": 0.108
+    },
+    {
+        "motion_energy": 0.05490000173449516,
+        "brightness_shift": 0.0451
+    },
+    {
+        "motion_energy": 0.05770000070333481,
+        "brightness_shift": 0.0849
+    },
+    {
+        "motion_energy": 0.048900000751018524,
+        "brightness_shift": 0.077
+    },
+    {
+        "motion_energy": 0.05700000002980232,
+        "brightness_shift": 0.1878
+    },
+    {
+        "motion_energy": 0.061500001698732376,
+        "brightness_shift": 0.2309
+    },
+    {
+        "motion_energy": 0.06390000134706497,
+        "brightness_shift": 0.6404
+    },
+    {
+        "motion_energy": 0.056299999356269836,
+        "brightness_shift": 0.1948
+    },
+    {
+        "motion_energy": 0.051899999380111694,
+        "brightness_shift": 0.1039
+    },
+    {
+        "motion_energy": 0.05570000037550926,
+        "brightness_shift": 0.0351
+    },
+    {
+        "motion_energy": 0.05739999935030937,
+        "brightness_shift": 0.0306
+    },
+    {
+        "motion_energy": 0.04740000143647194,
+        "brightness_shift": 0.2024
+    },
+    {
+        "motion_energy": 0.053300000727176666,
+        "brightness_shift": 0.0427
+    },
+    {
+        "motion_energy": 0.05559999868273735,
+        "brightness_shift": 0.0211
+    },
+    {
+        "motion_energy": 0.06120000034570694,
+        "brightness_shift": 0.223
+    },
+    {
+        "motion_energy": 0.06360000371932983,
+        "brightness_shift": 0.817
+    },
+    {
+        "motion_energy": 0.06260000169277191,
+        "brightness_shift": 0.8437
+    },
+    {
+        "motion_energy": 0.05609999969601631,
+        "brightness_shift": 0.0182
+    },
+    {
+        "motion_energy": 0.061400000005960464,
+        "brightness_shift": 0.223
+    },
+    {
+        "motion_energy": 0.05119999870657921,
+        "brightness_shift": 0.4404
+    },
+    {
+        "motion_energy": 0.04960000142455101,
+        "brightness_shift": 0.2158
+    },
+    {
+        "motion_energy": 0.059300001710653305,
+        "brightness_shift": 0.3221
+    },
+    {
+        "motion_energy": 0.06750000268220901,
+        "brightness_shift": 0.0972
+    },
+    {
+        "motion_energy": 0.05620000138878822,
+        "brightness_shift": 0.0735
+    },
+    {
+        "motion_energy": 0.0575999990105629,
+        "brightness_shift": 0.1305
+    },
+    {
+        "motion_energy": 0.055799998342990875,
+        "brightness_shift": 0.4835
+    },
+    {
+        "motion_energy": 0.06849999725818634,
+        "brightness_shift": 1.8747
+    },
+    {
+        "motion_energy": 0.06199999898672104,
+        "brightness_shift": 1.9174
+    },
+    {
+        "motion_energy": 0.06239999830722809,
+        "brightness_shift": 1.4462
+    },
+    {
+        "motion_energy": 0.06669999659061432,
+        "brightness_shift": 1.6062
+    },
+    {
+        "motion_energy": 0.06069999933242798,
+        "brightness_shift": 1.2994
+    },
+    {
+        "motion_energy": 0.062199998646974564,
+        "brightness_shift": 1.6214
+    },
+    {
+        "motion_energy": 0.05460000038146973,
+        "brightness_shift": 0.9288
+    },
+    {
+        "motion_energy": 0.053199999034404755,
+        "brightness_shift": 0.8012
+    },
+    {
+        "motion_energy": 0.037300001829862595,
+        "brightness_shift": 0.4608
+    },
+    {
+        "motion_energy": 0.01759999990463257,
+        "brightness_shift": 0.6468
+    },
+    {
+        "motion_energy": 0.002400000113993883,
+        "brightness_shift": 0.2842
+    },
+    {
+        "motion_energy": 9.999999747378752e-05,
+        "brightness_shift": 0.3646
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0713
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.1168
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0221
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    },
+    {
+        "motion_energy": 0.0,
+        "brightness_shift": 0.0
+    }
+]

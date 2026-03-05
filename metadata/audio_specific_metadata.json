@@ -1,0 +1,34 @@
+{
+    "File": "videoplayback.mp4",
+    "Duration_sec": 68.22,
+    "Sample_Rate_Hz": 44100,
+    "Tempo_BPM": 114.84,
+    "Mean_RMS_Energy": 0.0823,
+    "Mean_Zero_Crossing_Rate": 0.0381,
+    "Mean_Spectral_Centroid_Hz": 1796.4,
+    "Mean_Spectral_Bandwidth_Hz": 2425.05,
+    "Mean_Spectral_Rolloff_Hz": 3679.48,
+    "MFCC_Mean_Vector": [
+        -253.6901,
+        155.2975,
+        -5.2922,
+        25.2904,
+        2.3275,
+        17.2588,
+        -5.6287,
+        7.4377,
+        2.1684,
+        3.5552,
+        3.6934,
+        1.0852,
+        2.665
+    ],
+    "Sub_Band_Energy_Distribution": {
+        "sub_bass_energy (0-60Hz)": 0.1197,
+        "bass_energy (60-250Hz)": 0.4375,
+        "low_mid_energy (250-2000Hz)": 0.3849,
+        "high_mid_energy (2000-4000Hz)": 0.035,
+        "presence_energy (4000-6000Hz)": 0.0095,
+        "brilliance_energy (6000Hz+)": 0.0135
+    }
+}
