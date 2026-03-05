@@ -1,0 +1,55 @@
+{
+    "file": "videoplayback.mp4",
+    "duration_sec": 68.22,
+    "sample_rate_hz": 44100,
+    "tempo_bpm": 114.84,
+    "mean_rms_energy": 0.0823,
+    "mean_zero_crossing_rate": 0.0381,
+    "mean_spectral_centroid_hz": 1796.4,
+    "mean_spectral_bandwidth_hz": 2425.05,
+    "mean_spectral_rolloff_hz": 3679.48,
+    "mean_onset_strength": 0.9541,
+    "mfcc_mean_vector": [
+        -253.6901,
+        155.2975,
+        -5.2922,
+        25.2904,
+        2.3275,
+        17.2588,
+        -5.6287,
+        7.4377,
+        2.1684,
+        3.5552,
+        3.6934,
+        1.0852,
+        2.665
+    ],
+    "sub_band_energy": {
+        "sub_bass_0_60hz": 0.1197,
+        "bass_60_250hz": 0.4375,
+        "low_mid_250_2000hz": 0.3849,
+        "high_mid_2000_4000hz": 0.035,
+        "presence_4000_6000hz": 0.0095,
+        "brilliance_6000hz_plus": 0.0135
+    },
+    "three_band_energy": {
+        "low_pct": 0.5571,
+        "mid_pct": 0.4199,
+        "high_pct": 0.023
+    },
+    "visual_features_avg": {
+        "color_variance": 2873.1608,
+        "contrast": 48.4031,
+        "edge_density": 0.0282
+    },
+    "dominant_lighting_key": "low-key",
+    "num_scenes": 24,
+    "cuts_per_minute": 21.1082,
+    "avg_scene_duration_sec": 2.8403,
+    "stimulation": {
+        "visual_score": 70.36,
+        "audio_score": 82.3,
+        "final_score": 75.14
+    },
+    "semantic_drift": 0.319939
+}
