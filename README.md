@@ -1,4 +1,4 @@
-# RS epx - Video Feature Extraction Pipeline
+# RS exp - Video Feature Extraction Pipeline
 
 This repository contains a comprehensive pipeline for extracting multimodal features from video content. It is designed to generate rich metadata for Recommendation Systems (RecSys), specifically for creating item embeddings and training sequence-aware models.
 
